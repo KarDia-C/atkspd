@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+	<title>攻速计算器 - 卡露蒂亚城乡结合部</title>
+</head>
+
+<body>
+	<nav class="navbar navbar-dark bg-dark">
+		<span class="navbar-brand mr-auto">攻速计算器</span>
+		<select class="selectpicker" data-width="fit" data-style="btn-dark">
+			<option>简体中文</option>
+			<option disabled>TODO</option>
+		</select>
+	</nav>
+	<div class="container">
+		<div class="form-group">
+			<select id="mon" class="selectpicker mt-3" data-live-search="true" data-none-results-text="没有找到符合 {0} 的匹配项"
+				title="选择魔物">
+			</select>
+			<input id="dex" class="form-control mt-3 w-auto" type="number" min="0" placeholder="敏捷" />
+			<select id="buff" class="selectpicker mt-3">
+				<option value="0" class="general" selected>无攻速buff</option>
+				<option value="20" class="general">+20% (最佳舞台lv1)</option>
+				<option value="25" class="general">+25% (最佳舞台lv2)</option>
+				<option value="30" class="general">+30% (最佳舞台lv3)</option>
+				<option value="-20" class="general">-20% (第五号角lv1)</option>
+				<option value="-25" class="general">-25% (第五号角lv1)</option>
+				<option value="-30" class="general">-30% (第五号角lv1)</option>
+				<option value="custom" class="general">自定义</option>
+				<option data-divider="true"></option>
+				<option value="20" class="4061010">+20% (皇家阵列lv1)</option>
+				<option value="25" class="4061010">+25% (皇家阵列lv2)</option>
+				<option value="30" class="4061010">+30% (皇家阵列lv3)</option>
+				<option data-divider="true"></option>
+				<option value="60" class="4012020">+60% (嗜血狂热lv1)</option>
+				<option value="70" class="4012020">+70% (嗜血狂热lv2)</option>
+				<option value="80" class="4012020">+80% (嗜血狂热lv3)</option>
+				<option data-divider="true"></option>
+				<option value="60" class="2027010 2027020 4084010">+60% (本能lv1)</option>
+				<option value="70" class="2027010 2027020 4084010">+70% (本能lv1)</option>
+				<option value="80" class="2027010 2027020 4084010">+80% (本能lv1)</option>
+				<option value="90" class="2027010 2027020">+90% (本能lv1)</option>
+				<option value="100" class="2027010 2027020">+100% (本能lv1)</option>
+			</select>
+			<input id="customBuff" class="form-control mt-3 w-auto" type="number" step="5" max="100"
+				placeholder="攻速buff" style="display: none;" />
+		</div>
+		<table id="result" data-toggle="table" data-virtual-scroll="true"
+			data-classes="table table-bordered table-striped table-hover">
+			<thead>
+				<tr>
+					<th data-field="equip" data-width="40" data-width-unit="%">装备/时装攻速</th>
+					<th data-field="atkspd" data-width="60" data-width-unit="%">实际攻速(次/秒)</th>
+				</tr>
+			</thead>
+		</table>
+
+		<div style="width: 88px; position: absolute; bottom: 10px; margin-left: -44px; left: 50%;">
+			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">
+				<img src="data:image/png;base64,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" />
+			</a>
+		</div>
+	</div>
+
+	<script src="/js/jquery-1.11.1.min.js"></script>
+	<script src="ui.js"></script>
+	<script src="atkspd.js"></script>
+	<script src="/js/popper.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/bootstrap-select.min.js"></script>
+	<script src="/js/bootstrap-table.min.js"></script>
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/bootstrap-select.min.css">
+	<link rel="stylesheet" href="/css/bootstrap-table.min.css">
+	<script src="https://www.googletagmanager.com/gtag/js?id=UA-119962177-1"></script>
+	<script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-119962177-1');</script>
+	<script src="/js/tiny-pinyin.js"></script>
+</body>
+
+</html>
