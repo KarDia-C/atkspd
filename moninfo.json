@@ -1,1 +1,866 @@
-[]
+[
+    {
+        "star": 1,
+        "name": "绿色史莱姆",
+        "spd_atk": 1600,
+        "tokens": "绿史 绿姆姆",
+        "animation": 517,
+        "type": "1001010"
+    },
+    {
+        "star": 1,
+        "name": "蓝色史莱姆",
+        "spd_atk": 1733,
+        "tokens": "蓝史 蓝姆姆",
+        "animation": 417,
+        "type": "1001020"
+    },
+    {
+        "star": 1,
+        "name": "红色史莱姆",
+        "spd_atk": 1333,
+        "tokens": "红史 红姆姆",
+        "animation": 417,
+        "type": "1001030"
+    },
+    {
+        "star": 1,
+        "name": "黄色史莱姆",
+        "spd_atk": 1600,
+        "tokens": "黄史 黄姆姆",
+        "animation": 517,
+        "type": "1001040"
+    },
+    {
+        "star": 1,
+        "name": "阳葵",
+        "spd_atk": 1600,
+        "tokens": "向日葵",
+        "animation": 417,
+        "type": "1002010"
+    },
+    {
+        "star": 1,
+        "name": "风仙炭玻玻",
+        "spd_atk": 1600,
+        "tokens": "风仙碳玻玻",
+        "animation": 517,
+        "type": "1003010"
+    },
+    {
+        "star": 1,
+        "name": "水猫呜拉喵",
+        "spd_atk": 1333,
+        "tokens": "水猫",
+        "animation": 417,
+        "type": "1005010"
+    },
+    {
+        "star": 1,
+        "name": "地鼠芙洛波",
+        "spd_atk": 1266,
+        "tokens": "",
+        "animation": 417,
+        "type": "1006010"
+    },
+    {
+        "star": 1,
+        "name": "风精NANO",
+        "spd_atk": 1266,
+        "tokens": "",
+        "animation": 517,
+        "type": "1007010"
+    },
+    {
+        "star": 1,
+        "name": "地鸟喳喳布林",
+        "spd_atk": 1333,
+        "tokens": "渣渣",
+        "animation": 517,
+        "type": "1008010"
+    },
+    {
+        "star": 1,
+        "name": "水鸟喳喳布林",
+        "spd_atk": 1330,
+        "tokens": "渣渣",
+        "animation": 517,
+        "type": "1008020"
+    },
+    {
+        "star": 1,
+        "name": "杜艮",
+        "spd_atk": 1999,
+        "tokens": "",
+        "animation": 417,
+        "type": "1009010"
+    },
+    {
+        "star": 1,
+        "name": "水藻杜吉芽",
+        "spd_atk": 1600,
+        "tokens": "水藻精",
+        "animation": 417,
+        "type": "1025010"
+    },
+    {
+        "star": 2,
+        "name": "大根子",
+        "spd_atk": 1600,
+        "tokens": "萝卜精",
+        "animation": 517,
+        "type": "1030010"
+    },
+    {
+        "star": 1,
+        "name": "柯萝",
+        "spd_atk": 1600,
+        "tokens": "考拉",
+        "animation": 517,
+        "type": "1031010"
+    },
+    {
+        "star": 1,
+        "name": "迷迷可",
+        "spd_atk": 1600,
+        "tokens": "宝箱怪",
+        "animation": 517,
+        "type": "1038010"
+    },
+    {
+        "star": 1,
+        "name": "惑仔",
+        "spd_atk": 1300,
+        "tokens": "鸭子",
+        "animation": 417,
+        "type": "1055010"
+    },
+    {
+        "star": 2,
+        "name": "黄金史莱姆",
+        "spd_atk": 1600,
+        "tokens": "金姆姆",
+        "animation": 517,
+        "type": "2001050"
+    },
+    {
+        "star": 2,
+        "name": "紫阳葵",
+        "spd_atk": 1600,
+        "tokens": "向日葵",
+        "animation": 417,
+        "type": "2002020"
+    },
+    {
+        "star": 2,
+        "name": "水仙炭玻玻",
+        "spd_atk": 1600,
+        "tokens": "水仙碳玻玻",
+        "animation": 517,
+        "type": "2003020"
+    },
+    {
+        "star": 2,
+        "name": "斯可可",
+        "spd_atk": 1600,
+        "tokens": "稻草人",
+        "animation": 517,
+        "type": "2004010"
+    },
+    {
+        "star": 2,
+        "name": "山猫呜拉喵",
+        "spd_atk": 1333,
+        "tokens": "山猫",
+        "animation": 417,
+        "type": "2005020"
+    },
+    {
+        "star": 2,
+        "name": "火山芙洛波",
+        "spd_atk": 1199,
+        "tokens": "火鼠 地鼠",
+        "animation": 417,
+        "type": "2006020"
+    },
+    {
+        "star": 2,
+        "name": "土精NANO",
+        "spd_atk": 1199,
+        "tokens": "",
+        "animation": 517,
+        "type": "2007020"
+    },
+    {
+        "star": 2,
+        "name": "海藻杜吉芽",
+        "spd_atk": 1600,
+        "tokens": "海藻精 海带精",
+        "animation": 417,
+        "type": "2025020"
+    },
+    {
+        "star": 2,
+        "name": "布萝",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 517,
+        "type": "2027010"
+    },
+    {
+        "star": 2,
+        "name": "热布萝",
+        "spd_atk": 1650,
+        "tokens": "热狗",
+        "animation": 517,
+        "type": "2027020"
+    },
+    {
+        "star": 2,
+        "name": "恰斯可",
+        "spd_atk": 1466,
+        "tokens": "木桶 水桶",
+        "animation": 517,
+        "type": "2034010"
+    },
+    {
+        "star": 2,
+        "name": "乌丽卡",
+        "spd_atk": 1999,
+        "tokens": "蜗牛",
+        "animation": 417,
+        "type": "2035010"
+    },
+    {
+        "star": 2,
+        "name": "草原乌丽卡",
+        "spd_atk": 1999,
+        "tokens": "草蜗牛 风蜗牛",
+        "animation": 417,
+        "type": "2035020"
+    },
+    {
+        "star": 2,
+        "name": "熔岩乌丽卡",
+        "spd_atk": 1999,
+        "tokens": "火蜗牛",
+        "animation": 417,
+        "type": "2035030"
+    },
+    {
+        "star": 2,
+        "name": "格莉姆",
+        "spd_atk": 1866,
+        "tokens": "艾米莉亚 绿石头 emt",
+        "animation": 517,
+        "type": "2037010"
+    },
+    {
+        "star": 2,
+        "name": "格雷姆",
+        "spd_atk": 1999,
+        "tokens": "雷姆 蓝石头",
+        "animation": 517,
+        "type": "2037020"
+    },
+    {
+        "star": 2,
+        "name": "格拉姆",
+        "spd_atk": 1999,
+        "tokens": "拉姆|红石头",
+        "animation": 517,
+        "type": "2037030"
+    },
+    {
+        "star": 2,
+        "name": "白银迷迷可",
+        "spd_atk": 1600,
+        "tokens": "宝箱怪",
+        "animation": 517,
+        "type": "2038020"
+    },
+    {
+        "star": 2,
+        "name": "多萝",
+        "spd_atk": 1000,
+        "tokens": "老鼠",
+        "animation": 517,
+        "type": "2039010"
+    },
+    {
+        "star": 2,
+        "name": "小恶魔",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 417,
+        "type": "2056010"
+    },
+    {
+        "star": 2,
+        "name": "云元素",
+        "spd_atk": 1500,
+        "tokens": "",
+        "animation": 517,
+        "type": "2060010"
+    },
+    {
+        "star": 2,
+        "name": "卡布缇莫",
+        "spd_atk": 1600,
+        "tokens": "甲虫 卡布达 独角仙",
+        "animation": 517,
+        "type": "2063010"
+    },
+    {
+        "star": 2,
+        "name": "树精",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 417,
+        "type": "2064010"
+    },
+    {
+        "star": 2,
+        "name": "铁背海龟",
+        "spd_atk": 1600,
+        "tokens": "乌龟",
+        "animation": 517,
+        "type": "2066010"
+    },
+    {
+        "star": 2,
+        "name": "水手蟹",
+        "spd_atk": 1333,
+        "tokens": "螃蟹",
+        "animation": 517,
+        "type": "2068010"
+    },
+    {
+        "star": 2,
+        "name": "海兵虾",
+        "spd_atk": 1500,
+        "tokens": "海虾兵 皮皮虾",
+        "animation": 417,
+        "type": "2069010"
+    },
+    {
+        "star": 2,
+        "name": "布丁史莱姆",
+        "spd_atk": 1600,
+        "tokens": "布丁姆姆 焦糖姆姆",
+        "animation": 517,
+        "type": "2073010"
+    },
+    {
+        "star": 2,
+        "name": "纯白史莱姆",
+        "spd_atk": 1600,
+        "tokens": "纯白姆姆 白史",
+        "animation": 517,
+        "type": "2078010"
+    },
+    {
+        "star": 3,
+        "name": "彩虹史莱姆",
+        "spd_atk": 1600,
+        "tokens": "彩虹姆姆 彩姆姆",
+        "animation": 517,
+        "type": "3001070"
+    },
+    {
+        "star": 3,
+        "name": "ＭＩＯ",
+        "spd_atk": 1330,
+        "tokens": "MIO",
+        "animation": 417,
+        "type": "3010010"
+    },
+    {
+        "star": 3,
+        "name": "露库希安",
+        "spd_atk": 1600,
+        "tokens": "老师 妖精",
+        "animation": 417,
+        "type": "3011010"
+    },
+    {
+        "star": 3,
+        "name": "义贼多米诺",
+        "spd_atk": 1466,
+        "tokens": "",
+        "animation": 517,
+        "type": "3012010"
+    },
+    {
+        "star": 3,
+        "name": "海歌姬·赛伦",
+        "spd_atk": 1600,
+        "tokens": "琴女 人鱼",
+        "animation": 417,
+        "type": "3013010"
+    },
+    {
+        "star": 3,
+        "name": "雷素·鸣",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 417,
+        "type": "3014010"
+    },
+    {
+        "star": 3,
+        "name": "基雅·库罗",
+        "spd_atk": 1733,
+        "tokens": "乌鸦 女巫 魔理沙",
+        "animation": 417,
+        "type": "3015010"
+    },
+    {
+        "star": 3,
+        "name": "秋风希露芙",
+        "spd_atk": 1199,
+        "tokens": "",
+        "animation": 517,
+        "type": "3016010"
+    },
+    {
+        "star": 3,
+        "name": "拉克斯·蕾妮娅",
+        "spd_atk": 1600,
+        "tokens": "冰女",
+        "animation": 517,
+        "type": "3017010"
+    },
+    {
+        "star": 3,
+        "name": "血口荆棘·辛普拉",
+        "spd_atk": 1333,
+        "tokens": "食人花 女王",
+        "animation": 517,
+        "type": "3026010"
+    },
+    {
+        "star": 3,
+        "name": "妖蛾子",
+        "spd_atk": 1733,
+        "tokens": "幺蛾子",
+        "animation": 417,
+        "type": "3028010"
+    },
+    {
+        "star": 3,
+        "name": "高原火角·阿卡铃",
+        "spd_atk": 2666,
+        "tokens": "山羊 阿卡林 大角羊",
+        "animation": 517,
+        "type": "3029010"
+    },
+    {
+        "star": 3,
+        "name": "花藕子",
+        "spd_atk": 1066,
+        "tokens": "",
+        "animation": 417,
+        "type": "3033010"
+    },
+    {
+        "star": 3,
+        "name": "月兔蕾雅",
+        "spd_atk": 1600,
+        "tokens": "兔子",
+        "animation": 417,
+        "type": "3036010"
+    },
+    {
+        "star": 3,
+        "name": "必达信使·哈托莉",
+        "spd_atk": 1300,
+        "tokens": "鸽子 咕咕",
+        "animation": 417,
+        "type": "3041010"
+    },
+    {
+        "star": 3,
+        "name": "白浪激流·克洛琪",
+        "spd_atk": 1600,
+        "tokens": "青蛙",
+        "animation": 517,
+        "type": "3042010"
+    },
+    {
+        "star": 3,
+        "name": "桑图艾尔",
+        "spd_atk": 1300,
+        "tokens": "半人马",
+        "animation": 517,
+        "type": "3043010"
+    },
+    {
+        "star": 3,
+        "name": "冰川大亨·夏洛蒂",
+        "spd_atk": 1400,
+        "tokens": "企鹅 QQ",
+        "animation": 417,
+        "type": "3044010"
+    },
+    {
+        "star": 3,
+        "name": "野林之歌·木野子",
+        "spd_atk": 1500,
+        "tokens": "蘑菇",
+        "animation": 417,
+        "type": "3051010"
+    },
+    {
+        "star": 3,
+        "name": "蜂刺骑士·修瓦莉",
+        "spd_atk": 1200,
+        "tokens": "小蜜蜂",
+        "animation": 517,
+        "type": "3052010"
+    },
+    {
+        "star": 3,
+        "name": "夜之守·加尔戈萝",
+        "spd_atk": 1400,
+        "tokens": "加尔戈罗 石像怪鬼",
+        "animation": 417,
+        "type": "3054010"
+    },
+    {
+        "star": 3,
+        "name": "旅人熊·莫利贝尔",
+        "spd_atk": 1800,
+        "tokens": "",
+        "animation": 517,
+        "type": "3059010"
+    },
+    {
+        "star": 3,
+        "name": "海之光·佩拉姬娅",
+        "spd_atk": 1600,
+        "tokens": "水母 海蜇皮",
+        "animation": 417,
+        "type": "3065010"
+    },
+    {
+        "star": 3,
+        "name": "蜜桃子·沫沫",
+        "spd_atk": 1450,
+        "tokens": "",
+        "animation": 317,
+        "type": "3070010"
+    },
+    {
+        "star": 3,
+        "name": "火元素·焰",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 417,
+        "type": "3075010"
+    },
+    {
+        "star": 4,
+        "name": "公主史莱姆",
+        "spd_atk": 1600,
+        "tokens": "公主 粉姆姆",
+        "animation": 417,
+        "type": "4001060"
+    },
+    {
+        "star": 4,
+        "name": "狂犬多米诺",
+        "spd_atk": 1666,
+        "tokens": "poi",
+        "animation": 517,
+        "type": "4012020"
+    },
+    {
+        "star": 4,
+        "name": "七尾·稲荷御澄",
+        "spd_atk": 1600,
+        "tokens": "狐狸",
+        "animation": 417,
+        "type": "4018010"
+    },
+    {
+        "star": 4,
+        "name": "真护·天茧",
+        "spd_atk": 1600,
+        "tokens": "黑龙",
+        "animation": 517,
+        "type": "4019010"
+    },
+    {
+        "star": 4,
+        "name": "莉安夕",
+        "spd_atk": 2399,
+        "tokens": "鱼龙 脆脆鲨 水怪",
+        "animation": 517,
+        "type": "4020010"
+    },
+    {
+        "star": 4,
+        "name": "卡库拉拉兹巴",
+        "spd_atk": 1600,
+        "tokens": "酋长 猫长老 大长老",
+        "animation": 417,
+        "type": "4021010"
+    },
+    {
+        "star": 4,
+        "name": "阿芙莉芒",
+        "spd_atk": 1600,
+        "tokens": "大眼 邪神",
+        "animation": 517,
+        "type": "4022010"
+    },
+    {
+        "star": 4,
+        "name": "宝石迷迷可",
+        "spd_atk": 1466,
+        "tokens": "富婆",
+        "animation": 517,
+        "type": "4038020"
+    },
+    {
+        "star": 4,
+        "name": "死亡缠绕·萝丝娜",
+        "spd_atk": 1300,
+        "tokens": "蜘蛛",
+        "animation": 417,
+        "type": "4040010"
+    },
+    {
+        "star": 4,
+        "name": "沼江夜鸣·鵺",
+        "spd_atk": 1400,
+        "tokens": "妖怪 夜鸟",
+        "animation": 517,
+        "type": "4045010"
+    },
+    {
+        "star": 4,
+        "name": "罪骨公主·斯卡莉安",
+        "spd_atk": 1900,
+        "tokens": "骨头妹",
+        "animation": 517,
+        "type": "4046010"
+    },
+    {
+        "star": 4,
+        "name": "艾露玛",
+        "spd_atk": 1200,
+        "tokens": "",
+        "animation": 517,
+        "type": "4049010"
+    },
+    {
+        "star": 4,
+        "name": "露科亚",
+        "spd_atk": 1800,
+        "tokens": "",
+        "animation": 517,
+        "type": "4050010"
+    },
+    {
+        "star": 4,
+        "name": "命运之女·拉米娅",
+        "spd_atk": 1700,
+        "tokens": "蛇女 人妻",
+        "animation": 417,
+        "type": "4053010"
+    },
+    {
+        "star": 4,
+        "name": "赤月之牙·希瓦",
+        "spd_atk": 1466,
+        "tokens": "",
+        "animation": 417,
+        "type": "4058010"
+    },
+    {
+        "star": 4,
+        "name": "自由之翼·格里芬",
+        "spd_atk": 1600,
+        "tokens": "狮鹫",
+        "animation": 417,
+        "type": "4061010"
+    },
+    {
+        "star": 4,
+        "name": "山王卿·曼缇柯尔",
+        "spd_atk": 1600,
+        "tokens": "蝎狮 蝎尾狮",
+        "animation": 517,
+        "type": "4062010"
+    },
+    {
+        "star": 4,
+        "name": "月光蝶·千秋",
+        "spd_atk": 1600,
+        "tokens": "蝴蝶",
+        "animation": 417,
+        "type": "4071010"
+    },
+    {
+        "star": 3,
+        "name": "哈克",
+        "spd_atk": 1200,
+        "tokens": "",
+        "animation": 417,
+        "type": "4076010"
+    },
+    {
+        "star": 4,
+        "name": "欲眼策师·萨莉丝",
+        "spd_atk": 1700,
+        "tokens": "魅魔",
+        "animation": 317,
+        "type": "4077010"
+    },
+    {
+        "star": 4,
+        "name": "昆西",
+        "spd_atk": 1600,
+        "tokens": "奶牛 蓝船",
+        "animation": 517,
+        "type": "4079010"
+    },
+    {
+        "star": 4,
+        "name": "长春",
+        "spd_atk": 1600,
+        "tokens": "白船",
+        "animation": 417,
+        "type": "4080010"
+    },
+    {
+        "star": 4,
+        "name": "淘淘猪·牡丹",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 517,
+        "type": "4083010"
+    },
+    {
+        "star": 4,
+        "name": "苍月之羽·奥杰塔",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 517,
+        "type": "4084010"
+    },
+    {
+        "star": 4,
+        "name": "翠风执事·阿黛拉",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 517,
+        "type": "4091010"
+    },
+    {
+        "star": 4,
+        "name": "密林游侠·米提希尔",
+        "spd_atk": 1100,
+        "tokens": "",
+        "animation": 517,
+        "type": "4094010"
+    },
+    {
+        "star": 5,
+        "name": "神之御子薇薇",
+        "spd_atk": 1466,
+        "tokens": "VV 青龙",
+        "animation": 417,
+        "type": "5023010"
+    },
+    {
+        "star": 5,
+        "name": "幽冥的梅菲尔",
+        "spd_atk": 1199,
+        "tokens": "梅妃 恶魔小姐姐",
+        "animation": 417,
+        "type": "5024010"
+    },
+    {
+        "star": 5,
+        "name": "托尔",
+        "spd_atk": 1500,
+        "tokens": "",
+        "animation": 417,
+        "type": "5047010"
+    },
+    {
+        "star": 5,
+        "name": "康娜",
+        "spd_atk": 1400,
+        "tokens": "",
+        "animation": 417,
+        "type": "5048010"
+    },
+    {
+        "star": 5,
+        "name": "幻翼天角·菲娜",
+        "spd_atk": 1600,
+        "tokens": "天马 小马 独角兽",
+        "animation": 417,
+        "type": "5057010"
+    },
+    {
+        "star": 5,
+        "name": "幽夜之影·洛莉安",
+        "spd_atk": 1500,
+        "tokens": "吸血鬼 伯爵 萝莉安 幽影 蝙蝠 棺材板",
+        "animation": 417,
+        "type": "5067010"
+    },
+    {
+        "star": 5,
+        "name": "潮汐之主·克拉肯",
+        "spd_atk": 1600,
+        "tokens": "章鱼娘 乌贼娘",
+        "animation": 517,
+        "type": "5072010"
+    },
+    {
+        "star": 5,
+        "name": "列克星敦",
+        "spd_atk": 1600,
+        "tokens": "太太 黄船",
+        "animation": 417,
+        "type": "5081010"
+    },
+    {
+        "star": 5,
+        "name": "提尔比茨",
+        "spd_atk": 1700,
+        "tokens": "北宅 红船",
+        "animation": 417,
+        "type": "5082010"
+    },
+    {
+        "star": 5,
+        "name": "永夜之灯·桑兰卓",
+        "spd_atk": 1700,
+        "tokens": "神灯",
+        "animation": 417,
+        "type": "5085010"
+    },
+    {
+        "star": 5,
+        "name": "龙眠卿·艾穆莉斯",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 417,
+        "type": "5092010"
+    },
+    {
+        "star": 5,
+        "name": "星云史莱姆",
+        "spd_atk": 1400,
+        "tokens": "姆姆",
+        "animation": 417,
+        "type": "5093010"
+    }
+]
