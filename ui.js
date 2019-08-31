@@ -28,7 +28,8 @@ function updateTableSize() {
 
 $(() => {
     updateBuffList();
-    $(window).resize(updateTableSize).resize();
+    $(window).resize(updateTableSize);
+    setTimeout(() => $(window).resize(), 0);
     $.fn.bootstrapTable.defaults.formatNoMatches = () => '<span class="text-secondary">请选择一个魔物</span>';
 
     if (!Pinyin.isSupported()) {
