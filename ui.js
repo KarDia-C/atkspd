@@ -30,6 +30,14 @@ $(() => {
     updateBuffList();
     $(window).resize(updateTableSize).resize();
     $.fn.bootstrapTable.defaults.formatNoMatches = () => '<span class="text-secondary">请选择一个魔物</span>';
+
+    if (!Pinyin.isSupported()) {
+        if (!localStorage.shownPYissue) {
+            localStorage.shownPYissue = true;
+            $("#PYissue").modal("show");
+        }
+    }
+
     $.get('moninfo.json', data => {
         data.sort((a, b) => {
             return a.type % 1000000 - b.type % 1000000;
@@ -42,16 +50,18 @@ $(() => {
             let tokens = mon.tokens.split(' ');
             tokens.push(mon.name);
             let pinyins = [];
-            for (let token of tokens) {
-                let full = '', first = '';
-                for (let char of Pinyin.parse(token)) {
-                    if (char.type == 3) {
-                        continue;
+            if (Pinyin.isSupported()) {
+                for (let token of tokens) {
+                    let full = '', first = '';
+                    for (let char of Pinyin.parse(token)) {
+                        if (char.type == 3) {
+                            continue;
+                        }
+                        full += char.target;
+                        first += char.target[0];
                     }
-                    full += char.target;
-                    first += char.target[0];
+                    pinyins.push(full, first);
                 }
-                pinyins.push(full, first);
             }
             option.setAttribute('data-tokens', tokens.concat(pinyins).join(' '));
             option.setAttribute('data-subtext', '★★★★★'.substr(5 - mon.star));
