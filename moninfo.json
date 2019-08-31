@@ -203,7 +203,7 @@
         "star": 2,
         "name": "布萝",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "狗",
         "animation": 517,
         "type": "2027010"
     },
@@ -387,9 +387,17 @@
         "star": 3,
         "name": "义贼多米诺",
         "spd_atk": 1466,
-        "tokens": "",
+        "tokens": "狗",
         "animation": 517,
         "type": "3012010"
+    },
+    {
+        "star": 3,
+        "name": "义贼多米诺(远程)",
+        "spd_atk": 1466,
+        "tokens": "狗",
+        "animation": 417,
+        "type": "3012011"
     },
     {
         "star": 3,
@@ -571,7 +579,7 @@
         "star": 4,
         "name": "狂犬多米诺",
         "spd_atk": 1666,
-        "tokens": "poi",
+        "tokens": "狗 poi",
         "animation": 517,
         "type": "4012020"
     },
