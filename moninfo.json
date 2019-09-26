@@ -716,7 +716,7 @@
         "name": "哈克",
         "spd_atk": 1200,
         "tokens": "",
-        "animation": 417,
+        "animation": 517,
         "type": "4076010"
     },
     {
@@ -870,5 +870,21 @@
         "tokens": "姆姆",
         "animation": 417,
         "type": "5093010"
+    },
+    {
+        "star": 5,
+        "name": "法夫纳",
+        "spd_atk": 1500,
+        "tokens": "",
+        "animation": 417,
+        "type": "5095010"
+    },
+    {
+        "star": 5,
+        "name": "伊露露",
+        "spd_atk": 1300,
+        "tokens": "",
+        "animation": 417,
+        "type": "5096010"
     }
 ]
