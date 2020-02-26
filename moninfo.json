@@ -568,6 +568,14 @@
         "type": "3075010"
     },
     {
+        "star": 3,
+        "name": "斩骨血刃·德莉尔",
+        "spd_atk": 1333,
+        "tokens": "刀妹",
+        "animation": 517,
+        "type": "3097010"
+    },
+    {
         "star": 4,
         "name": "公主史莱姆",
         "spd_atk": 1600,
@@ -776,6 +784,22 @@
         "type": "4094010"
     },
     {
+        "star": 4,
+        "name": "浮游奇想·梅莉露",
+        "spd_atk": 1000,
+        "tokens": "魔术师",
+        "animation": 417,
+        "type": "4098010"
+    },
+    {
+        "star": 4,
+        "name": "鼠娘子·铃兰",
+        "spd_atk": 1300,
+        "tokens": "",
+        "animation": 417,
+        "type": "4102010"
+    },
+    {
         "star": 5,
         "name": "神之御子薇薇",
         "spd_atk": 1466,
@@ -886,5 +910,13 @@
         "tokens": "",
         "animation": 417,
         "type": "5096010"
+    },
+    {
+        "star": 5,
+        "name": "时海航歌·萨莉亚",
+        "spd_atk": 1800,
+        "tokens": "船长",
+        "animation": 417,
+        "type": "5099010"
     }
 ]
