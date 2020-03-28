@@ -267,7 +267,7 @@
         "star": 2,
         "name": "格拉姆",
         "spd_atk": 1999,
-        "tokens": "拉姆|红石头",
+        "tokens": "拉姆 红石头",
         "animation": 517,
         "type": "2037030"
     },
@@ -366,6 +366,14 @@
         "tokens": "彩虹姆姆 彩姆姆",
         "animation": 517,
         "type": "3001070"
+    },
+    {
+        "star": 3,
+        "name": "活化史莱姆",
+        "spd_atk": 1700,
+        "tokens": "活化姆姆",
+        "animation": 517,
+        "type": "3001080"
     },
     {
         "star": 3,
@@ -531,7 +539,7 @@
         "star": 3,
         "name": "夜之守·加尔戈萝",
         "spd_atk": 1400,
-        "tokens": "加尔戈罗 石像怪鬼",
+        "tokens": "加尔戈罗 石像怪 石像鬼",
         "animation": 417,
         "type": "3054010"
     },
@@ -635,7 +643,7 @@
         "star": 4,
         "name": "宝石迷迷可",
         "spd_atk": 1466,
-        "tokens": "富婆",
+        "tokens": "富婆 宝箱怪",
         "animation": 517,
         "type": "4038020"
     },
@@ -771,7 +779,7 @@
         "star": 4,
         "name": "翠风执事·阿黛拉",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "风猫",
         "animation": 517,
         "type": "4091010"
     },
@@ -779,7 +787,7 @@
         "star": 4,
         "name": "密林游侠·米提希尔",
         "spd_atk": 1100,
-        "tokens": "",
+        "tokens": "猫头鹰",
         "animation": 517,
         "type": "4094010"
     },
@@ -875,15 +883,23 @@
         "star": 5,
         "name": "永夜之灯·桑兰卓",
         "spd_atk": 1700,
-        "tokens": "神灯",
+        "tokens": "神灯 灯神 灯姐",
         "animation": 417,
         "type": "5085010"
     },
     {
         "star": 5,
+        "name": "亚巴朵尔",
+        "spd_atk": 1780,
+        "tokens": "蝗虫 眯眯眼",
+        "animation": 417,
+        "type": "5090010"
+    },
+    {
+        "star": 5,
         "name": "龙眠卿·艾穆莉斯",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "蓝龙 冰龙 钢板",
         "animation": 417,
         "type": "5092010"
     },
@@ -891,7 +907,7 @@
         "star": 5,
         "name": "星云史莱姆",
         "spd_atk": 1400,
-        "tokens": "姆姆",
+        "tokens": "星云姆姆",
         "animation": 417,
         "type": "5093010"
     },
@@ -918,5 +934,13 @@
         "tokens": "船长",
         "animation": 417,
         "type": "5099010"
+    },
+    {
+        "star": 5,
+        "name": "卡露迪翁",
+        "spd_atk": 1300,
+        "tokens": "生命树",
+        "animation": 417,
+        "type": "5104010"
     }
 ]
