@@ -419,7 +419,7 @@
         "star": 2,
         "name": "克洛洛",
         "spd_atk": 1000,
-        "tokens": "",
+        "tokens": "守宫",
         "animation": 517,
         "type": "2101010"
     },
@@ -611,7 +611,7 @@
         "star": 3,
         "name": "蜂刺骑士·修瓦莉",
         "spd_atk": 1200,
-        "tokens": "小蜜蜂",
+        "tokens": "蜜蜂",
         "animation": 517,
         "type": "3052010"
     },
@@ -675,7 +675,7 @@
         "star": 3,
         "name": "百貌之星·莉欧娜",
         "spd_atk": 1300,
-        "tokens": "",
+        "tokens": "变色龙",
         "animation": 517,
         "type": "3100010"
     },
@@ -843,7 +843,7 @@
         "star": 4,
         "name": "艾露玛",
         "spd_atk": 1200,
-        "tokens": "",
+        "tokens": "水龙",
         "animation": 517,
         "type": "4049010"
     },
@@ -915,7 +915,7 @@
         "star": 4,
         "name": "新月祭司·库洛贝尔",
         "spd_atk": 1700,
-        "tokens": "",
+        "tokens": "黑熊",
         "animation": 517,
         "type": "4078010"
     },
@@ -987,7 +987,7 @@
         "star": 4,
         "name": "八百八变幻・波姆铃",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "狸猫",
         "animation": 517,
         "type": "4100010"
     },
@@ -1011,7 +1011,7 @@
         "star": 4,
         "name": "冥土侍长·安普斯",
         "spd_atk": 1400,
-        "tokens": "",
+        "tokens": "女仆长",
         "animation": 517,
         "type": "4108010"
     },
@@ -1019,7 +1019,7 @@
         "star": 4,
         "name": "轰鸣大地·西可萝",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "独眼巨人",
         "animation": 517,
         "type": "4114010"
     },
@@ -1067,7 +1067,7 @@
         "star": 4,
         "name": "毛绒之拳·潘达琳",
         "spd_atk": 1400,
-        "tokens": "",
+        "tokens": "熊猫",
         "animation": 517,
         "type": "4130010"
     },
@@ -1075,7 +1075,7 @@
         "star": 4,
         "name": "噬骨尖兵·克蕾朵",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "人偶",
         "animation": 417,
         "type": "4132010"
     },
@@ -1153,6 +1153,14 @@
     },
     {
         "star": 5,
+        "name": "炮台（提尔比茨召唤物）",
+        "spd_atk": 1000,
+        "tokens": "",
+        "animation": 417,
+        "type": "5082011"
+    },
+    {
+        "star": 5,
         "name": "永夜之灯·桑兰卓",
         "spd_atk": 1700,
         "tokens": "神灯 灯神 灯姐",
@@ -1195,7 +1203,7 @@
         "star": 5,
         "name": "伊露露",
         "spd_atk": 1300,
-        "tokens": "",
+        "tokens": "166",
         "animation": 417,
         "type": "5096010"
     },
@@ -1219,7 +1227,7 @@
         "star": 5,
         "name": "卡露迪翁",
         "spd_atk": 1300,
-        "tokens": "生命树 树妈",
+        "tokens": "生命树 树妈 树神",
         "animation": 417,
         "type": "5104010"
     },
@@ -1259,7 +1267,7 @@
         "star": 5,
         "name": "雷狱先锋·沃尔特",
         "spd_atk": 1500,
-        "tokens": "",
+        "tokens": "地龙",
         "animation": 417,
         "type": "5121010"
     },
@@ -1267,7 +1275,7 @@
         "star": 5,
         "name": "时轮双子·柯莉丝",
         "spd_atk": 1600,
-        "tokens": "姐姐",
+        "tokens": "姐姐 时姐",
         "animation": 417,
         "type": "5125010"
     },
@@ -1275,7 +1283,7 @@
         "star": 5,
         "name": "时轮双子·克莉莎",
         "spd_atk": 1600,
-        "tokens": "妹妹",
+        "tokens": "妹妹 时妹",
         "animation": 417,
         "type": "5126010"
     },
@@ -1289,6 +1297,14 @@
     },
     {
         "star": 5,
+        "name": "鳞壳仆从（厄客德娜召唤物）",
+        "spd_atk": 1400,
+        "tokens": "蛇",
+        "animation": 517,
+        "type": "5127011"
+    },
+    {
+        "star": 5,
         "name": "奇妙毛绒神·芙拉莉",
         "spd_atk": 1500,
         "tokens": "毛绒绒",
@@ -1299,7 +1315,7 @@
         "star": 5,
         "name": "操流奇手·杰莉",
         "spd_atk": 1500,
-        "tokens": "",
+        "tokens": "手冲姐 杰哥",
         "animation": 417,
         "type": "5133010"
     }
