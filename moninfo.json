@@ -768,6 +768,22 @@
         "type": "3134010"
     },
     {
+        "star": 3,
+        "name": "黄金土偶",
+        "spd_atk": 1500,
+        "tokens": "金土偶",
+        "animation": 517,
+        "type": "3106040"
+    },
+    {
+        "star": 3,
+        "name": "火焰猫·空",
+        "spd_atk": 1600,
+        "tokens": "火猫",
+        "animation": 417,
+        "type": "3139010"
+    },
+    {
         "star": 4,
         "name": "公主史莱姆",
         "spd_atk": 1600,
@@ -1096,6 +1112,14 @@
         "type": "4135010"
     },
     {
+        "star": 4,
+        "name": "雷暴之翼·桑博德",
+        "spd_atk": 1300,
+        "tokens": "沙暴鸟",
+        "animation": 417,
+        "type": "4137010"
+    },
+    {
         "star": 5,
         "name": "神之御子薇薇",
         "spd_atk": 1466,
@@ -1342,5 +1366,13 @@
         "tokens": "",
         "animation": 517,
         "type": "5136010"
+    },
+    {
+        "star": 5,
+        "name": "末日烈焰·露库希安",
+        "spd_atk": 1600,
+        "tokens": "黑老师",
+        "animation": 417,
+        "type": "5138010"
     }
 ]
