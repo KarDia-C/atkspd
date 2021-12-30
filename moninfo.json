@@ -1120,6 +1120,22 @@
         "type": "4137010"
     },
     {
+        "star": 4,
+        "name": "橘·希尔芬福特",
+        "spd_atk": 1400,
+        "tokens": "",
+        "animation": 417,
+        "type": "4143010"
+    },
+    {
+        "star": 4,
+        "name": "本场切绘",
+        "spd_atk": 1300,
+        "tokens": "",
+        "animation": 517,
+        "type": "4144010"
+    },
+    {
         "star": 5,
         "name": "神之御子薇薇",
         "spd_atk": 1466,
@@ -1369,10 +1385,26 @@
     },
     {
         "star": 5,
-        "name": "末日烈焰·露库希安",
+        "name": "土间埋",
+        "spd_atk": 1300,
+        "tokens": "小埋",
+        "animation": 517,
+        "type": "5140010"
+    },
+    {
+        "star": 5,
+        "name": "仓鼠史莱姆",
         "spd_atk": 1600,
-        "tokens": "黑老师",
+        "tokens": "",
+        "animation": 517,
+        "type": "5140011"
+    },
+    {
+        "star": 5,
+        "name": "海老名菜菜",
+        "spd_atk": 1400,
+        "tokens": "",
         "animation": 417,
-        "type": "5138010"
+        "type": "5141010"
     }
 ]
