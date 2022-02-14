@@ -1127,6 +1127,14 @@
         "animation": 417,
         "type": "4143010"
     },
+     {
+        "star": 4,
+        "name": "镇寅虎·石棠",
+        "spd_atk":1350,
+        "tokens": "小虎 老虎",
+        "animation": 517,
+        "type": "4144010"
+    }
     {
         "star": 4,
         "name": "本场切绘",
@@ -1275,7 +1283,7 @@
         "star": 5,
         "name": "轰牙咆哮·金格尔",
         "spd_atk": 1600,
-        "tokens": "老虎",
+        "tokens": "老虎 大虎",
         "animation": 417,
         "type": "5103010"
     },
@@ -1395,7 +1403,7 @@
         "star": 5,
         "name": "仓鼠史莱姆",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "小埋 土间埋",
         "animation": 517,
         "type": "5140011"
     },
@@ -1406,5 +1414,5 @@
         "tokens": "",
         "animation": 417,
         "type": "5141010"
-    }
+    },
 ]
