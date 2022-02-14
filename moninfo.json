@@ -1127,14 +1127,14 @@
         "animation": 417,
         "type": "4143010"
     },
-     {
+    {
         "star": 4,
         "name": "镇寅虎·石棠",
         "spd_atk":1350,
         "tokens": "小虎 老虎",
         "animation": 517,
         "type": "4144010"
-    }
+    },
     {
         "star": 4,
         "name": "本场切绘",
