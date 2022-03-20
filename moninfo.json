@@ -403,7 +403,7 @@
         "star": 2,
         "name": "布丁史莱姆",
         "spd_atk": 1600,
-        "tokens": "布丁姆姆 焦糖姆姆",
+        "tokens": "布丁姆姆",
         "animation": 517,
         "type": "2073010"
     },
@@ -782,6 +782,14 @@
         "tokens": "火猫",
         "animation": 417,
         "type": "3139010"
+    },
+    {
+        "star": 3,
+        "name": "焦糖布丁史莱姆",
+        "spd_atk": 1600,
+        "tokens": "布丁 焦糖",
+        "animation": 517,
+        "type": "3073020"
     },
     {
         "star": 4,
