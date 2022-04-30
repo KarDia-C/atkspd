@@ -481,10 +481,18 @@
     },
     {
         "star": 3,
-        "name": "义贼多米诺",
+        "name": "义贼多米诺（近战）",
         "spd_atk": 1466,
         "tokens": "狗",
         "animation": 517,
+        "type": "3012010"
+    },
+    {
+        "star": 3,
+        "name": "义贼多米诺（远程）",
+        "spd_atk": 1466,
+        "tokens": "狗",
+        "animation": 417,
         "type": "3012010"
     },
     {
@@ -790,6 +798,14 @@
         "tokens": "布丁 焦糖",
         "animation": 517,
         "type": "3073020"
+    },
+    {
+        "star": 3,
+        "name": "棉花糖信使.绵绵",
+        "spd_atk": 1600,
+        "tokens": "棉花糖 绵绵",
+        "animation": 417,
+        "type": "3149010"
     },
     {
         "star": 4,
@@ -1401,6 +1417,14 @@
     },
     {
         "star": 5,
+        "name": "末日烈焰·露库希安",
+        "spd_atk": 1600,
+        "tokens": "黑老师",
+        "animation": 417,
+        "type": "5138010"
+    },
+    {
+        "star": 5,
         "name": "土间埋",
         "spd_atk": 1300,
         "tokens": "小埋",
@@ -1422,5 +1446,13 @@
         "tokens": "",
         "animation": 417,
         "type": "5141010"
+    },
+    {
+        "star": 5,
+        "name": "金刚光",
+        "spd_atk": 1500,
+        "tokens": "小光",
+        "animation": 417,
+        "type": "5142010"
     }
 ]
