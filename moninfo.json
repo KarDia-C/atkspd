@@ -1454,5 +1454,14 @@
         "tokens": "小光",
         "animation": 417,
         "type": "5142010"
+      },
+     {
+        "star": 5,
+        "name": "牧羊神·潘恩",
+        "spd_atk": 1500,
+        "tokens": "羊驼",
+        "animation": 417,
+        "type": "5150010"
     }
 ]
+
