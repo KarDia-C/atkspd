@@ -1462,6 +1462,46 @@
         "tokens": "羊驼",
         "animation": 417,
         "type": "5150010"
+    },
+    {
+        "star": 5,
+        "name": "卫圣天使·婕拉特",
+        "spd_atk": 1500,
+        "tokens": "圣天使 天使",
+        "animation": 417,
+        "type": "5148010"
+    },
+    {
+        "star": 5,
+        "name": "煌黑公主·薇拉",
+        "spd_atk": 1600,
+        "tokens": "薇妹 vv",
+        "animation": 517,
+        "type": "5074010"
+    },
+    {
+        "star": 3,
+        "name": "影护尖兵·芙拉莫",
+        "spd_atk": 1200,
+        "tokens": "蝙蝠",
+        "animation": 417,
+        "type": "3146011"
+    },
+    {
+        "star": 3,
+        "name": "影护尖兵·芙拉莫（蝙蝠）",
+        "spd_atk": 1300,
+        "tokens": "蝙蝠",
+        "animation": 417,
+        "type": "3146010"
+    },
+    {
+        "star": 4,
+        "name": "梦影之翼·夏塔克",
+        "spd_atk": 1300,
+        "tokens": "夏塔克",
+        "animation": 417,
+        "type": "4147010"
     }
 ]
 
