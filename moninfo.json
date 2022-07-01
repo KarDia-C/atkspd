@@ -1485,15 +1485,15 @@
         "spd_atk": 1200,
         "tokens": "蝙蝠",
         "animation": 417,
-        "type": "3146011"
+        "type": "3146010"
     },
     {
         "star": 3,
         "name": "影护尖兵·芙拉莫（蝙蝠）",
         "spd_atk": 1300,
         "tokens": "蝙蝠",
-        "animation": 417,
-        "type": "3146010"
+        "animation": 517,
+        "type": "3146011"
     },
     {
         "star": 4,
