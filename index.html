@@ -20,12 +20,15 @@
 			<select id="mon" class="selectpicker mt-3" data-live-search="true" data-none-results-text="没有找到符合 {0} 的匹配项"
 				title="选择魔物">
 			</select>
-			<input id="dex" class="form-control mt-3 w-auto" type="number" min="0" placeholder="敏捷" />
+			<input id="dex" class="form-control mt-3 w-auto" type="number" min="0" placeholder="敏捷(数值总和，非成长值)" />
 			<select id="buff" class="selectpicker mt-3">
 				<option value="0" class="general" selected>无攻速buff</option>
 				<option value="20" class="general">+20% (最佳舞台lv1)</option>
 				<option value="25" class="general">+25% (最佳舞台lv2)</option>
 				<option value="30" class="general">+30% (最佳舞台lv3)</option>
+				<option value="30" class="general">+30% (最佳舞台lv3 / 时流奔涌lv1)</option>
+				<option value="35" class="general">+35% (时流奔涌lv2)</option>
+				<option value="40" class="general">+40% (时流奔涌lv3)</option>
 				<option value="custom" class="general">自定义</option>
 				<option data-divider="true"></option>
 				<option value="20" class="4061010">+20% (皇家阵列lv1)</option>
@@ -36,9 +39,9 @@
 				<option value="70" class="4012020">+70% (嗜血狂热lv2)</option>
 				<option value="80" class="4012020">+80% (嗜血狂热lv3)</option>
 				<option data-divider="true"></option>
-				<option value="60" class="2027010 2027020 4084010">+60% (本能lv1)</option>
-				<option value="70" class="2027010 2027020 4084010">+70% (本能lv2)</option>
-				<option value="80" class="2027010 2027020 4084010">+80% (本能lv3)</option>
+				<option value="60" class="2027010 2027020 4084010 3129010 5117010">+60% (本能lv1)</option>
+				<option value="70" class="2027010 2027020 4084010 3129010 5117010">+70% (本能lv2)</option>
+				<option value="80" class="2027010 2027020 4084010 3129010 5117010">+80% (本能lv3)</option>
 				<option value="90" class="2027010 2027020">+90% (本能lv4)</option>
 				<option value="100" class="2027010 2027020">+100% (本能lv5)</option>
 			</select>
