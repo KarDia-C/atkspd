@@ -1185,6 +1185,14 @@
     },
     {
         "star": 5,
+        "name": "幽冥的梅菲尔（被动）",
+        "spd_atk": 1199,
+        "tokens": "梅妃 烟花 被动",
+        "animation": 17,
+        "type": "5024011"
+    },
+    {
+        "star": 5,
         "name": "托尔",
         "spd_atk": 1500,
         "tokens": "",
@@ -1502,6 +1510,38 @@
         "tokens": "夏塔克",
         "animation": 517,
         "type": "4147010"
+    },    
+    {
+        "star": 4,
+        "name": "珊德薇",
+        "spd_atk": 1400,
+        "tokens": "白鸟",
+        "animation": 417,
+        "type": "4155010"
+    },
+    {
+        "star": 4,
+        "name": "阿讷莫娜",
+        "spd_atk": 1400,
+        "tokens": "鹿 小鹿",
+        "animation": 417,
+        "type": "4156010"
+    },
+    {
+        "star": 5,
+        "name": "泰坦妮亚",
+        "spd_atk": 1500,
+        "tokens": "大蝴蝶 泰坦尼亚 紫白菜",
+        "animation": 517,
+        "type": "5153010"
+    },
+    {
+        "star": 5,
+        "name": "白",
+        "spd_atk": 1466,
+        "tokens": "小白鱼 锦鲤",
+        "animation": 417,
+        "type": "5154010"
     }
 ]
 
