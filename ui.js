@@ -3,9 +3,6 @@ var info = {};
 function update() {
     updateBuffList($('#mon').val());
     let result = ($('#mon').val() || []) && calc(info[$('#mon').val()], $('#dex').val() >> 0, ($('#buff').val() == 'custom' ? $('#customBuff').val() : $('#buff').val()) >> 0);
-    for (let i of result) {
-        i.atkspd = (1000 / i.atkspd).toFixed(2);
-    }
     $("#result").bootstrapTable('refreshOptions', {data: result});
     $(window).resize();
 }
