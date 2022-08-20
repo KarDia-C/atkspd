@@ -1,8 +1,8 @@
 function toFrame(ms) {
-    return Math.floor(ms * .06) + 1; // ms / (1000 / 60)
+    return Math.floor(ms * .05) + 1; // ms / (1000 / 50)
 }
 
-function calc_(mon, dex, buff) {
+function calc(mon, dex, buff) {
     const ratio = 1 - buff / 100;
     let result = [];
     let cnt = mon.spd_atk - .75 * dex, i;
@@ -25,33 +25,8 @@ function calc_(mon, dex, buff) {
         } else equip = result[i];
         rtn.push({
             equip,
-            atkspd: (60 / i).toFixed(2),
+            atkspd: (50 / i).toFixed(2),
         });
     }
     return rtn;
-}
-
-function toFreq(ms) {
-    return (1000 / ms).toFixed(2);
-}
-
-function calc(mon, dex, buff) {
-    const ratio = 1 - buff / 100;
-    let result = [];
-    let cnt = mon.spd_atk - .75 * dex, i;
-    let animation = mon.animation / .06;
-    for (i = 0; i <= 60 && cnt * ratio > animation; ++i) {
-        result.push({
-            'equip': i,
-            'atkspd': toFreq(cnt * ratio),
-        });
-        cnt -= 16;
-    }
-    if (cnt * ratio <= animation) {
-        result.push({
-            'equip': i + '+',
-            'atkspd': toFreq(animation),
-        });
-    }
-    return result;
 }
