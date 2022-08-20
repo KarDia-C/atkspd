@@ -3,7 +3,7 @@
         "star": 5,
         "name": "夏日小憩（白皮肤）",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "小白鱼 锦鲤",
         "animation": 25,
         "type": "5154011"
     },
@@ -11,7 +11,7 @@
         "star": 5,
         "name": "冰雪蛮族（雷狱先锋·沃尔特皮肤）",
         "spd_atk": 1500,
-        "tokens": "",
+        "tokens": "地龙",
         "animation": 31,
         "type": "5121011"
     },
@@ -19,7 +19,7 @@
         "star": 4,
         "name": "飞鸟与鱼（珊德薇皮肤）",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "白鸟",
         "animation": 25,
         "type": "4155011"
     },
@@ -27,7 +27,7 @@
         "star": 5,
         "name": "女王假期（泰坦妮亚皮肤）",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "大蝴蝶 泰坦尼亚 紫白菜",
         "animation": 31,
         "type": "5153011"
     },
@@ -43,7 +43,7 @@
         "star": 4,
         "name": "泳装女仆（冥土侍长·安普斯皮肤）",
         "spd_atk": 1400,
-        "tokens": "",
+        "tokens": "女仆长",
         "animation": 25,
         "type": "4108011"
     },
@@ -51,7 +51,7 @@
         "star": 4,
         "name": "沙滩蹄印（阿讷莫娜皮肤）",
         "spd_atk": 1600,
-        "tokens": "",
+        "tokens": "小鹿",
         "animation": 25,
         "type": "4156011"
     },
