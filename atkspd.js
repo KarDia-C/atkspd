@@ -14,15 +14,15 @@ function calc(mon, dex, buff) {
         cnt -= 16;
     }
     if (toFrame(cnt * ratio) <= mon.animation) {
-        result[mon.animation] = i;
+        result[mon.animation] = i + '+';
     }
     let rtn = [];
-    for (i = result.length - 1; result[i]; --i) {
+    for (i = result.length - 1; result[i] !== undefined; --i) {
         let equip;
         if (result[i] instanceof Array) {
             if (result[i][0] == result[i][1]) equip = result[i][0];
             else equip = result[i][0] + '-' + result[i][1];
-        } else equip = result[i] + '+';
+        } else equip = result[i];
         rtn.push({
             equip,
             atkspd: (60 / i).toFixed(2),
