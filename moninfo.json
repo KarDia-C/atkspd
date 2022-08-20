@@ -1,11 +1,35 @@
 [
     {
         "star": 5,
+        "name": "夏日小憩（白皮肤）",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 25,
+        "type": "5154011"
+    },
+    {
+        "star": 5,
         "name": "冰雪蛮族（雷狱先锋·沃尔特皮肤）",
         "spd_atk": 1500,
         "tokens": "",
         "animation": 31,
         "type": "5121011"
+    },
+    {
+        "star": 4,
+        "name": "飞鸟与鱼（珊德薇皮肤）",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 25,
+        "type": "4155011"
+    },
+    {
+        "star": 5,
+        "name": "女王假期（泰坦妮亚皮肤）",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 31,
+        "type": "5153011"
     },
     {
         "star": 3,
@@ -22,6 +46,14 @@
         "tokens": "",
         "animation": 25,
         "type": "4108011"
+    },
+    {
+        "star": 4,
+        "name": "沙滩蹄印（阿讷莫娜皮肤）",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 25,
+        "type": "4156011"
     },
     {
         "star": 1,
@@ -403,7 +435,7 @@
         "star": 2,
         "name": "布丁史莱姆",
         "spd_atk": 1600,
-        "tokens": "布丁姆姆",
+        "tokens": "布丁姆姆 焦糖姆姆",
         "animation": 31,
         "type": "2073010"
     },
@@ -493,7 +525,7 @@
         "spd_atk": 1466,
         "tokens": "狗",
         "animation": 25,
-        "type": "3012010"
+        "type": "3012010.r"
     },
     {
         "star": 3,
@@ -619,7 +651,7 @@
         "star": 3,
         "name": "蜂刺骑士·修瓦莉",
         "spd_atk": 1200,
-        "tokens": "蜜蜂",
+        "tokens": "小蜜蜂",
         "animation": 31,
         "type": "3052010"
     },
@@ -630,14 +662,6 @@
         "tokens": "加尔戈罗 石像怪 石像鬼",
         "animation": 25,
         "type": "3054010"
-    },
-    {
-        "star": 3,
-        "name": "哈克",
-        "spd_atk": 1200,
-        "tokens": "",
-        "animation": 31,
-        "type": "4076010"
     },
     {
         "star": 3,
@@ -662,6 +686,14 @@
         "tokens": "",
         "animation": 19,
         "type": "3070010"
+    },
+    {
+        "star": 3,
+        "name": "焦糖布丁史莱姆",
+        "spd_atk": 1600,
+        "tokens": "布丁 焦糖",
+        "animation": 31,
+        "type": "3073020"
     },
     {
         "star": 3,
@@ -710,6 +742,14 @@
         "tokens": "",
         "animation": 25,
         "type": "3106030"
+    },
+    {
+        "star": 3,
+        "name": "黄金土偶",
+        "spd_atk": 1400,
+        "tokens": "金土偶",
+        "animation": 31,
+        "type": "3106040"
     },
     {
         "star": 3,
@@ -777,14 +817,6 @@
     },
     {
         "star": 3,
-        "name": "黄金土偶",
-        "spd_atk": 1500,
-        "tokens": "金土偶",
-        "animation": 31,
-        "type": "3106040"
-    },
-    {
-        "star": 3,
         "name": "火焰猫·空",
         "spd_atk": 1600,
         "tokens": "火猫",
@@ -793,15 +825,23 @@
     },
     {
         "star": 3,
-        "name": "焦糖布丁史莱姆",
-        "spd_atk": 1600,
-        "tokens": "布丁 焦糖",
-        "animation": 31,
-        "type": "3073020"
+        "name": "影护尖兵·芙拉莫",
+        "spd_atk": 1200,
+        "tokens": "蝙蝠",
+        "animation": 25,
+        "type": "3146010"
     },
     {
         "star": 3,
-        "name": "棉花糖信使.绵绵",
+        "name": "蝙蝠（影护尖兵·芙拉莫召唤物）",
+        "spd_atk": 1300,
+        "tokens": "蝙蝠",
+        "animation": 31,
+        "type": "3146010.s"
+    },
+    {
+        "star": 3,
+        "name": "棉花糖信使·绵绵",
         "spd_atk": 1600,
         "tokens": "棉花糖 绵绵",
         "animation": 25,
@@ -952,6 +992,14 @@
         "type": "4071010"
     },
     {
+        "star": 3,
+        "name": "哈克",
+        "spd_atk": 1200,
+        "tokens": "",
+        "animation": 31,
+        "type": "4076010"
+    },
+    {
         "star": 4,
         "name": "欲眼策师·萨莉丝",
         "spd_atk": 1700,
@@ -1033,7 +1081,7 @@
     },
     {
         "star": 4,
-        "name": "八百八变幻·波姆铃",
+        "name": "八百八变幻・波姆铃",
         "spd_atk": 1600,
         "tokens": "狸猫",
         "animation": 31,
@@ -1168,6 +1216,30 @@
         "type": "4145010"
     },
     {
+        "star": 4,
+        "name": "梦影之翼·夏塔克",
+        "spd_atk": 1300,
+        "tokens": "夏塔克",
+        "animation": 31,
+        "type": "4147010"
+    },
+    {
+        "star": 4,
+        "name": "珊德薇",
+        "spd_atk": 1400,
+        "tokens": "白鸟",
+        "animation": 25,
+        "type": "4155010"
+    },
+    {
+        "star": 4,
+        "name": "阿讷莫娜",
+        "spd_atk": 1400,
+        "tokens": "鹿 小鹿",
+        "animation": 25,
+        "type": "4156010"
+    },
+    {
         "star": 5,
         "name": "神之御子薇薇",
         "spd_atk": 1466,
@@ -1189,7 +1261,7 @@
         "spd_atk": 1199,
         "tokens": "梅妃 烟花 被动",
         "animation": 1,
-        "type": "5024011"
+        "type": "5024010.r"
     },
     {
         "star": 5,
@@ -1233,6 +1305,14 @@
     },
     {
         "star": 5,
+        "name": "煌黑公主·薇拉",
+        "spd_atk": 1600,
+        "tokens": "薇妹 vv",
+        "animation": 31,
+        "type": "5074010"
+    },
+    {
+        "star": 5,
         "name": "列克星敦",
         "spd_atk": 1600,
         "tokens": "太太 黄船",
@@ -1253,7 +1333,7 @@
         "spd_atk": 1000,
         "tokens": "北宅 红船 召唤物",
         "animation": 25,
-        "type": "5082011"
+        "type": "5082010.s"
     },
     {
         "star": 5,
@@ -1397,7 +1477,7 @@
         "spd_atk": 1400,
         "tokens": "滑溜溜 鳞蛇 召唤物",
         "animation": 31,
-        "type": "5127011"
+        "type": "5127010.s"
     },
     {
         "star": 5,
@@ -1417,7 +1497,7 @@
     },
     {
         "star": 5,
-        "name": "大天使·克丽丝提娅",
+        "name": "大天使·克丽丝缇娅",
         "spd_atk": 1600,
         "tokens": "",
         "animation": 31,
@@ -1445,7 +1525,7 @@
         "spd_atk": 1600,
         "tokens": "小埋 土间埋",
         "animation": 31,
-        "type": "5140011"
+        "type": "5140010.s"
     },
     {
         "star": 5,
@@ -1462,14 +1542,6 @@
         "tokens": "小光",
         "animation": 25,
         "type": "5142010"
-      },
-     {
-        "star": 5,
-        "name": "牧羊神·潘恩",
-        "spd_atk": 1500,
-        "tokens": "羊驼",
-        "animation": 25,
-        "type": "5150010"
     },
     {
         "star": 5,
@@ -1481,51 +1553,11 @@
     },
     {
         "star": 5,
-        "name": "煌黑公主·薇拉",
-        "spd_atk": 1600,
-        "tokens": "薇妹 vv",
-        "animation": 31,
-        "type": "5074010"
-    },
-    {
-        "star": 3,
-        "name": "影护尖兵·芙拉莫",
-        "spd_atk": 1200,
-        "tokens": "蝙蝠",
+        "name": "牧羊神·潘恩",
+        "spd_atk": 1500,
+        "tokens": "羊驼",
         "animation": 25,
-        "type": "3146010"
-    },
-    {
-        "star": 3,
-        "name": "蝙蝠（影护尖兵·芙拉莫召唤物）",
-        "spd_atk": 1300,
-        "tokens": "蝙蝠",
-        "animation": 31,
-        "type": "3146011"
-    },
-    {
-        "star": 4,
-        "name": "梦影之翼·夏塔克",
-        "spd_atk": 1300,
-        "tokens": "夏塔克",
-        "animation": 31,
-        "type": "4147010"
-    },    
-    {
-        "star": 4,
-        "name": "珊德薇",
-        "spd_atk": 1400,
-        "tokens": "白鸟",
-        "animation": 25,
-        "type": "4155010"
-    },
-    {
-        "star": 4,
-        "name": "阿讷莫娜",
-        "spd_atk": 1400,
-        "tokens": "鹿 小鹿",
-        "animation": 25,
-        "type": "4156010"
+        "type": "5150010"
     },
     {
         "star": 5,
@@ -1538,10 +1570,9 @@
     {
         "star": 5,
         "name": "白",
-        "spd_atk": 1466,
+        "spd_atk": 1450,
         "tokens": "小白鱼 锦鲤",
         "animation": 25,
         "type": "5154010"
     }
 ]
-
