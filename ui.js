@@ -19,14 +19,8 @@ function updateBuffList(type) {
     $buff.selectpicker('refresh');
 }
 
-function updateTableSize() {
-    $('#result').bootstrapTable('resetView', {height: window.innerHeight - $('#result').offset().top - 54});
-}
-
 $(() => {
     updateBuffList();
-    $(window).resize(updateTableSize);
-    setTimeout(() => $(window).resize(), 0);
     $.fn.bootstrapTable.defaults.formatNoMatches = () => '<span class="text-secondary">请选择一个魔物</span>';
 
     if (!Pinyin.isSupported()) {
