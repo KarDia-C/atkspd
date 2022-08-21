@@ -12,7 +12,8 @@
 			height: calc(100vh - 56px);
 		}
 		.bootstrap-table {
-			overflow-y: auto;
+			position: absolute;
+			width: 100%;
 		}
 	</style>
 </head>
@@ -58,15 +59,17 @@
 			<input id="customBuff" class="form-control mt-3 w-auto" type="number" step="5" max="100"
 				placeholder="攻速buff" style="display: none;" />
 		</div>
-		<table id="result" data-toggle="table" data-virtual-scroll="true"
-			data-classes="table table-bordered table-striped table-hover">
-			<thead>
-				<tr>
-					<th data-field="equip" data-width="40" data-width-unit="%">装备/时装攻速</th>
-					<th data-field="atkspd" data-width="60" data-width-unit="%">实际攻速(次/秒)</th>
-				</tr>
-			</thead>
-		</table>
+		<div id="tableContainer" style="position: relative; flex-grow: 1;">
+			<table id="result" data-toggle="table" data-virtual-scroll="true"
+				data-classes="table table-bordered table-striped table-hover">
+				<thead>
+					<tr>
+						<th data-field="equip" data-width="40" data-width-unit="%">装备/时装攻速</th>
+						<th data-field="atkspd" data-width="60" data-width-unit="%">实际攻速(次/秒)</th>
+					</tr>
+				</thead>
+			</table>
+		</div>
 
 		<div class="my-2">
 			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">
@@ -101,6 +104,7 @@
 	<script src="/js/bootstrap.min.js"></script>
 	<script src="/js/bootstrap-select.min.js"></script>
 	<script src="/js/bootstrap-table.min.js"></script>
+	<script src="https://unpkg.com/element-resize-detector@1.2.4/dist/element-resize-detector.min.js"></script>
 	<link rel="stylesheet" href="/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/css/bootstrap-select.min.css">
 	<link rel="stylesheet" href="/css/bootstrap-table.min.css">

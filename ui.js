@@ -4,7 +4,6 @@ function update() {
     updateBuffList($('#mon').val());
     let result = ($('#mon').val() || []) && calc(info[$('#mon').val()], $('#dex').val() >> 0, ($('#buff').val() == 'custom' ? $('#customBuff').val() : $('#buff').val()) >> 0);
     $("#result").bootstrapTable('refreshOptions', {data: result});
-    $(window).resize();
 }
 
 function updateBuffList(type) {
@@ -21,6 +20,10 @@ function updateBuffList(type) {
 
 $(() => {
     updateBuffList();
+    let erd = elementResizeDetectorMaker();
+    erd.listenTo($('#tableContainer')[0], element => {
+        $('#result').bootstrapTable('resetView', {height: element.offsetHeight});
+    });
     $.fn.bootstrapTable.defaults.formatNoMatches = () => '<span class="text-secondary">请选择一个魔物</span>';
 
     if (!Pinyin.isSupported()) {

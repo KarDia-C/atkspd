@@ -16,8 +16,9 @@ function calc(mon, dex, buff) {
     if (toFrame(cnt * ratio) <= mon.animation) {
         result[mon.animation] = i + '+';
     }
+
     let rtn = [];
-    for (i = result.length - 1; result[i] !== undefined; --i) {
+    for (i in result) {
         let equip;
         if (result[i] instanceof Array) {
             if (result[i][0] == result[i][1]) equip = result[i][0];
@@ -28,5 +29,6 @@ function calc(mon, dex, buff) {
             atkspd: (50 / i).toFixed(2),
         });
     }
+    rtn.unshift(rtn[rtn.length - 1]);
     return rtn;
 }
