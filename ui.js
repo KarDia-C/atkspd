@@ -72,6 +72,5 @@ $(() => {
         } else {
             $('#customBuff').hide();
         }
-        updateTableSize();
     }).add($('#mon, input')).change(update);
 });
