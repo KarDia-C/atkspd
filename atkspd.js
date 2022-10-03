@@ -1,3 +1,4 @@
+//  417 -- > 21   517--> 26
 function toFrame(ms) {
     return Math.floor(ms * .05) + 1; // ms / (1000 / 50)
 }

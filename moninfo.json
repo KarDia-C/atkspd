@@ -1574,5 +1574,37 @@
         "tokens": "小白鱼 锦鲤",
         "animation": 21,
         "type": "5154010"
+    },
+    {
+        "star": 5,
+        "name": "蛋糕团长·奶油霜",
+        "spd_atk": 1600,
+        "tokens": "马桶",
+        "animation": 21,
+        "type": "5157010"
+    },
+    {
+        "star": 4,
+        "name": "果冻明星·洁莉洁莉",
+        "spd_atk": 1650,
+        "tokens": "黄糖",
+        "animation": 21,
+        "type": "4158010"
+    },
+    {
+        "star": 3,
+        "name": "巧克力乐手·可可果",
+        "spd_atk": 1600,
+        "tokens": "黑糖",
+        "animation": 26,
+        "type": "3159010"
+    },
+    {
+        "star": 1,
+        "name": "棉花糖史莱姆",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 21,
+        "type": "1153010"
     }
 ]
