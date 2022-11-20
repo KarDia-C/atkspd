@@ -1507,7 +1507,7 @@
         "star": 5,
         "name": "末日烈焰·露库希安",
         "spd_atk": 1600,
-        "tokens": "黑老师",
+        "tokens": "sp 黑老师",
         "animation": 21,
         "type": "5138010"
     },
@@ -1606,5 +1606,13 @@
         "tokens": "",
         "animation": 21,
         "type": "1153010"
+    },
+    {
+        "star": 5,
+        "name": "龙王之誓·薇薇",
+        "spd_atk": 1500,
+        "tokens": "sp vv",
+        "animation": 21,
+        "type": "5152010"
     }
 ]
