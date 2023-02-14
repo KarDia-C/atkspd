@@ -1614,5 +1614,45 @@
         "tokens": "sp vv",
         "animation": 21,
         "type": "5152010"
+    },
+    {
+        "star": 4,
+        "name": "玲珑兔·优昙",
+        "spd_atk": 1600,
+        "tokens": "尼兔，尼哥兔，黑兔",
+        "animation": 26,
+        "type": "4160010"
+    },
+    {
+        "star": 5,
+        "name": "天真·珈百璃·怀特",
+        "spd_atk": 1500,
+        "tokens": "加百利 废天使 堕天使 天真亲 第二代小埋",
+        "animation": 21,
+        "type": "5163010"
+    },
+    {
+        "star": 5,
+        "name": "胡桃泽·萨塔妮基亚·麦克道威尔",
+        "spd_atk": 1400,
+        "tokens": "撒塔妮 萨塔喵 傻蛋妮娅 傻塔喵",
+        "animation": 26,
+        "type": "5164010"
+    },
+    {
+        "star": 4,
+        "name": "月乃濑·薇奈特·艾普利尔",
+        "spd_atk": 1450,
+        "tokens": "薇奈 温尼迪 真天使",
+        "animation": 21,
+        "type": "4166010"
+    },
+    {
+        "star": 4,
+        "name": "白羽·拉菲尔·恩兹沃斯",
+        "spd_atk": 1500,
+        "tokens": "浅紫发 花泽香菜 花泽黑菜",
+        "animation": 21,
+        "type": "4167010"
     }
 ]
