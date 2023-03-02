@@ -1654,5 +1654,14 @@
         "tokens": "浅紫发 花泽香菜 花泽黑菜",
         "animation": 21,
         "type": "4167010"
+    },
+    {
+        "star": 5,
+        "name": "兔牙",
+        "spd_atk": 1500,
+        "tokens": "奸商 萝卜",
+        "animation": 26,
+        "type": "5161010"
     }
+
 ]
