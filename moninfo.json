@@ -1579,7 +1579,7 @@
         "star": 5,
         "name": "蛋糕团长·奶油霜",
         "spd_atk": 1600,
-        "tokens": "马桶",
+        "tokens": "马桶 抽水马桶",
         "animation": 21,
         "type": "5157010"
     },
@@ -1619,7 +1619,7 @@
         "star": 4,
         "name": "玲珑兔·优昙",
         "spd_atk": 1600,
-        "tokens": "尼兔，尼哥兔，黑兔",
+        "tokens": "尼兔 尼哥兔 黑兔",
         "animation": 26,
         "type": "4160010"
     },
@@ -1662,6 +1662,13 @@
         "tokens": "奸商 萝卜",
         "animation": 26,
         "type": "5161010"
+    },
+    {
+        "star": 5,
+        "name": "迅叶秋风·希露芙",
+        "spd_atk": 1199,
+        "tokens": "大秋风 sp秋风 sp",
+        "animation": 26,
+        "type": "5151010"
     }
-
 ]
