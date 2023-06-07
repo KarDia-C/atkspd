@@ -1670,5 +1670,37 @@
         "tokens": "大秋风 sp秋风 sp",
         "animation": 26,
         "type": "5151010"
+    },
+    {
+        "star": 5,
+        "name": "江城爱",
+        "spd_atk": 1300,
+        "tokens": "小爱",
+        "animation": 26,
+        "type": "5169010"
+    },
+    {
+        "star": 5,
+        "name": "荷洛音",
+        "spd_atk": 1466,
+        "tokens": "",
+        "animation": 21, 
+        "type": "5170010"
+    },
+    {
+        "star": 3,
+        "name": "海豹豹·赛尔可",
+        "spd_atk": 1000,
+        "tokens": "",
+        "animation": 21,
+        "type": "3162010"
+    },
+    {
+        "star": 5,
+        "name": "千咲·塔普利斯·修格贝尔",
+        "spd_atk": 1500,
+        "tokens": "学妹",
+        "animation": 26,
+        "type": "5165010"
     }
 ]
