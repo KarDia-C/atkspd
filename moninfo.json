@@ -1708,7 +1708,7 @@
 		"name": "寂鲸之音·爱克戎丝",
 		"spd_atk": 1492,
 		"tokens": "鲸",
-		"animation": 26,
+		"animation": 21,
 		"type": "5173010"
 	},
 	{
@@ -1716,7 +1716,7 @@
 		"name": "旋涡鲨·卡布蒂",
 		"spd_atk": 1492,
 		"tokens": "鲨鲨 脆脆鲨",
-		"animation": 21,
+		"animation": 26,
 		"type": "4172010"
 	},
 	{
@@ -1724,7 +1724,7 @@
 		"name": "海蛞蝓·卡莉乌",
 		"spd_atk": 1613,
 		"tokens": "蛞蝓",
-		"animation": 26,
+		"animation": 21,
 		"type": "3171010"
 	},
 	{
@@ -1732,7 +1732,7 @@
 		"name": "清泉之蛟·无麟",
 		"spd_atk": 1351,
 		"tokens": "",
-		"animation": 26,
+		"animation": 21,
 		"type": "4176010"
 	},
 	{
@@ -1740,7 +1740,7 @@
 		"name": "不详之源·基雅·库罗",
 		"spd_atk": 1492,
 		"tokens": "sp乌鸦 sp",
-		"animation": 26,
+		"animation": 21,
 		"type": "5168010"
 	},
 	{
@@ -1748,7 +1748,7 @@
 		"name": "麦麦",
 		"spd_atk": 1492,
 		"tokens": "",
-		"animation": 26,
+		"animation": 21,
 		"type": "5175010"
 	},
 	{
@@ -1756,7 +1756,7 @@
 		"name": "莓莓",
 		"spd_atk": 1408,
 		"tokens": "",
-		"animation": 21,
+		"animation": 26,
 		"type": "5174010"
 	},
 	{
@@ -1764,7 +1764,7 @@
 		"name": "无限神机·梅姬塔",
 		"spd_atk": 1695,
 		"tokens": "钢铁侠",
-		"animation": 26,
+		"animation": 21,
 		"type": "4177010"
 	},
 	{
@@ -1772,7 +1772,7 @@
 		"name": "魔军之友·沃沃子",
 		"spd_atk": 1613,
 		"tokens": "",
-		"animation": 21,
+		"animation": 26,
 		"type": "4181010"
 	},
 	{
@@ -1780,7 +1780,7 @@
 		"name": "魔界军势·雅珂",
 		"spd_atk": 1492,
 		"tokens": "魔枪",
-		"animation": 26,
+		"animation": 21,
 		"type": "5179010"
 	},
 	{
@@ -1796,7 +1796,7 @@
 		"name": "云从龙·晴雪",
 		"spd_atk": 1613,
 		"tokens": "龙 龙女 龙傲天 李云龙",
-		"animation": 26,
+		"animation": 21,
 		"type": "4182010"
 	},
 	{
@@ -1804,7 +1804,7 @@
 		"name": "透明史莱姆",
 		"spd_atk": 1613,
 		"tokens": "透明姆",
-		"animation": 26,
+		"animation": 21,
 		"type": "3186010"
 	},
 	{
@@ -1812,7 +1812,7 @@
 		"name": "梅普露",
 		"spd_atk": 1299,
 		"tokens": "盾娘",
-		"animation": 21,
+		"animation": 26,
 		"type": "5188010"
 	},
 	{
@@ -1820,7 +1820,7 @@
 		"name": "莎莉",
 		"spd_atk": 1613,
 		"tokens": "手里剑",
-		"animation": 26,
+		"animation": 21,
 		"type": "5189010"
 	},
 	{
@@ -1828,7 +1828,7 @@
 		"name": "麻衣",
 		"spd_atk": 1492,
 		"tokens": "绿毛",
-		"animation": 21,
+		"animation": 26,
 		"type": "4190010"
 	},
 	{
@@ -1836,7 +1836,7 @@
 		"name": "结衣",
 		"spd_atk": 1492,
 		"tokens": "粉毛",
-		"animation": 21,
+		"animation": 26,
 		"type": "4191010"
 	},
 	{
@@ -1844,7 +1844,7 @@
 		"name": "霞",
 		"spd_atk": 1250,
 		"tokens": "宫本 超级兵",
-		"animation": 21,
+		"animation": 26,
 		"type": "5192010"
 	},
 	{
@@ -1852,7 +1852,7 @@
 		"name": "奏",
 		"spd_atk": 1613,
 		"tokens": "百宝盒 魔盒 赌狗 男娘",
-		"animation": 26,
+		"animation": 21,
 		"type": "5193010"
 	},
 	{
@@ -1860,7 +1860,7 @@
 		"name": "游历者·卡库",
 		"spd_atk": 1492,
 		"tokens": "sp酋长 sp",
-		"animation": 21,
+		"animation": 26,
 		"type": "5187010"
 	},
 	{
@@ -1868,7 +1868,7 @@
 		"name": "水曜·樱零",
 		"spd_atk": 1613,
 		"tokens": "白毛狐狸",
-		"animation": 21,
+		"animation": 26,
 		"type": "5185010"
 	},
 	{
@@ -1876,7 +1876,7 @@
 		"name": "水精灵·莫芙琳",
 		"spd_atk": 1613,
 		"tokens": "水精灵 蓝皮",
-		"animation": 26,
+		"animation": 21,
 		"type": "4184010"
 	},
 	{
@@ -1884,7 +1884,7 @@
 		"name": "貉藻·温西库洛",
 		"spd_atk": 1299,
 		"tokens": "跳蚤",
-		"animation": 26,
+		"animation": 21,
 		"type": "3194010"
 	},
 	{
@@ -1892,7 +1892,7 @@
 		"name": "矮人炼金师·奥莉薇",
 		"spd_atk": 1613,
 		"tokens": "炸弹人",
-		"animation": 21,
+		"animation": 26,
 		"type": "3183010"
 	},
 	{
@@ -1900,7 +1900,7 @@
 		"name": "鹊桥仙·红翎",
 		"spd_atk": 1299,
 		"tokens": "喜鹊",
-		"animation": 26,
+		"animation": 21,
 		"type": "2178010"
 	}
 ]
