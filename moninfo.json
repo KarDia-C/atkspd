@@ -1902,5 +1902,29 @@
 		"tokens": "喜鹊",
 		"animation": 21,
 		"type": "2178010"
+	},
+	{
+		"star": 5,
+		"name": "雪花莲·迦拉尼娅",
+		"spd_atk": 1493,
+		"tokens": "",
+		"animation": 21,
+		"type": "5197010"
+	},
+	{
+		"star": 4,
+		"name": "兰花螳螂·欧希缇",
+		"spd_atk": 1493,
+		"tokens": "",
+		"animation": 26,
+		"type": "4196010"
+	},
+	{
+		"star": 3,
+		"name": "兔狸藻·尤特狸夏",
+		"spd_atk": 1613,
+		"tokens": "喜鹊",
+		"animation": 21,
+		"type": "3195010"
 	}
 ]
