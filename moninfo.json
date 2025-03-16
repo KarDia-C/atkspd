@@ -1926,5 +1926,36 @@
 		"tokens": "喜鹊",
 		"animation": 21,
 		"type": "3195010"
+	},
+	{
+		"star": 5,
+		"name": "雪之探究者·奥格",
+		"spd_atk": 1493,
+		"tokens": "",
+		"animation": 26,
+		"type": "5199010"
+	{
+		"star": 5,
+		"name": "丽芙莎茵",
+		"spd_atk": 1493,
+		"tokens": "",
+		"animation": 21,
+		"type": "5200010"
+	},
+	{
+		"star": 4,
+		"name": "赤链蛇·青葙",
+		"spd_atk": 1613,
+		"tokens": "",
+		"animation": 26,
+		"type": "4201010"
+	},
+	{
+		"star": 5,
+		"name": "凶擒校尉·薇妮特拉",
+		"spd_atk": 1613,
+		"tokens": "",
+		"animation": 21,
+		"type": "5198010"
 	}
 ]
