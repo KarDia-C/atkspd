@@ -11,14 +11,20 @@ function calc(mon, dex, buff) {
     let cnt = mon.spd_atk - .75 * dex, i;
     for (i = 0; i <= 60; ++i) {
         let frames = toFrame(cnt * ratio);
+        if (mon.type === '5024010.r') {
+            frames += 5;
+            if (frames <= mon.animation + 5) break;
+        }
         if (frames <= mon.animation) break;
         if (result[frames]) result[frames][1] = i;
         else result[frames] = [i, i];
         cnt -= 16;
     }
+    if (mon.type === '5024010.r') mon.animation += 5;
     if (toFrame(cnt * ratio) <= mon.animation) {
         result[mon.animation] = i + '+';
     }
+    if (mon.type === '5024010.r') mon.animation -= 5;
 
     let rtn = [];
     for (i in result) {
