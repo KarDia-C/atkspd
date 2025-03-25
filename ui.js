@@ -35,7 +35,8 @@ $(() => {
 
     $.get('moninfo.json', data => {
         data.sort((a, b) => {
-            return a.type % 1000000 - b.type % 1000000;
+            if (a.star !== b.star) return a.star - b.star;
+            return a.type.localeCompare(b.type);
         });
         let $mons = $('#mon');
         for (let mon of data) {
@@ -52,6 +53,7 @@ $(() => {
                         if (char.type == 3) {
                             continue;
                         }
+                        if (char.source === '·' || char.source === '・') continue;
                         full += char.target;
                         first += char.target[0];
                     }
