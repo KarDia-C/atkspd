@@ -434,7 +434,7 @@
     {
         "star": 2,
         "name": "鹊桥仙·红翎",
-        "spd_atk": 1299,
+        "spd_atk": 1300,
         "tokens": "喜鹊",
         "animation": 21,
         "type": "2178010"
@@ -619,7 +619,7 @@
         "star": 3,
         "name": "蜂刺骑士·修瓦莉",
         "spd_atk": 1200,
-        "tokens": "蜜蜂",
+        "tokens": "小蜜蜂",
         "animation": 26,
         "type": "3052010"
     },
@@ -793,6 +793,14 @@
     },
     {
         "star": 3,
+        "name": "沙滩飞盘（火焰猫·空皮肤）",
+        "spd_atk": 1600,
+        "tokens": "火猫",
+        "animation": 26,
+        "type": "3139012"
+    },
+    {
+        "star": 3,
         "name": "影护尖兵·芙拉莫",
         "spd_atk": 1200,
         "tokens": "蝙蝠",
@@ -801,9 +809,9 @@
     },
     {
         "star": 3,
-        "name": "蝙蝠（影护尖兵·芙拉莫召唤物）",
+        "name": "蝙蝠侍从（影护尖兵·芙拉莫召唤物）",
         "spd_atk": 1300,
-        "tokens": "蝙蝠",
+        "tokens": "蝙蝠 召唤物 影护尖兵芙拉莫",
         "animation": 26,
         "type": "3146010.s"
     },
@@ -826,7 +834,7 @@
     {
         "star": 3,
         "name": "海豹豹·赛尔可",
-        "spd_atk": 1000,
+        "spd_atk": 1600,
         "tokens": "",
         "animation": 21,
         "type": "3162010"
@@ -834,7 +842,7 @@
     {
         "star": 3,
         "name": "海蛞蝓·卡莉乌",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "蛞蝓",
         "animation": 21,
         "type": "3171010"
@@ -842,7 +850,7 @@
     {
         "star": 3,
         "name": "矮人炼金师·奥莉薇",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "炸弹人",
         "animation": 26,
         "type": "3183010"
@@ -850,7 +858,7 @@
     {
         "star": 3,
         "name": "透明史莱姆",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "透明姆",
         "animation": 21,
         "type": "3186010"
@@ -858,7 +866,7 @@
     {
         "star": 3,
         "name": "貉藻·温西库洛",
-        "spd_atk": 1299,
+        "spd_atk": 1300,
         "tokens": "跳蚤",
         "animation": 21,
         "type": "3194010"
@@ -866,7 +874,7 @@
     {
         "star": 3,
         "name": "兔狸藻·尤特狸夏",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "喜鹊",
         "animation": 21,
         "type": "3195010"
@@ -1275,7 +1283,7 @@
         "star": 4,
         "name": "阿讷莫娜",
         "spd_atk": 1400,
-        "tokens": "鹿 小鹿",
+        "tokens": "小鹿",
         "animation": 21,
         "type": "4156010"
     },
@@ -1305,7 +1313,7 @@
     },
     {
         "star": 4,
-        "name": "月乃濑·薇奈特·艾普利尔",
+        "name": "月乃濑·薇奈特·艾普莉尔",
         "spd_atk": 1450,
         "tokens": "薇奈 温尼迪 真天使",
         "animation": 21,
@@ -1313,7 +1321,7 @@
     },
     {
         "star": 4,
-        "name": "白羽·拉菲尔·恩兹沃斯",
+        "name": "白羽·菈菲尔·恩兹沃斯",
         "spd_atk": 1500,
         "tokens": "浅紫发 花泽香菜 花泽黑菜",
         "animation": 21,
@@ -1322,7 +1330,7 @@
     {
         "star": 4,
         "name": "旋涡鲨·卡布蒂",
-        "spd_atk": 1492,
+        "spd_atk": 1500,
         "tokens": "鲨鲨 脆脆鲨",
         "animation": 26,
         "type": "4172010"
@@ -1330,7 +1338,7 @@
     {
         "star": 5,
         "name": "清泉之蛟·无麟",
-        "spd_atk": 1351,
+        "spd_atk": 1350,
         "tokens": "",
         "animation": 21,
         "type": "4176010"
@@ -1338,7 +1346,7 @@
     {
         "star": 4,
         "name": "无限神机·梅姬塔",
-        "spd_atk": 1695,
+        "spd_atk": 1700,
         "tokens": "钢铁侠",
         "animation": 21,
         "type": "4177010"
@@ -1346,7 +1354,7 @@
     {
         "star": 4,
         "name": "魔军之友·沃沃子",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "",
         "animation": 26,
         "type": "4181010"
@@ -1354,7 +1362,7 @@
     {
         "star": 4,
         "name": "云从龙·晴雪",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "龙 龙女 龙傲天 李云龙",
         "animation": 21,
         "type": "4182010"
@@ -1362,7 +1370,7 @@
     {
         "star": 4,
         "name": "水精灵·莫芙琳",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "水精灵 蓝皮",
         "animation": 21,
         "type": "4184010"
@@ -1370,7 +1378,7 @@
     {
         "star": 4,
         "name": "麻衣",
-        "spd_atk": 1492,
+        "spd_atk": 1500,
         "tokens": "绿毛",
         "animation": 26,
         "type": "4190010"
@@ -1378,7 +1386,7 @@
     {
         "star": 4,
         "name": "结衣",
-        "spd_atk": 1492,
+        "spd_atk": 1500,
         "tokens": "粉毛",
         "animation": 26,
         "type": "4191010"
@@ -1386,7 +1394,7 @@
     {
         "star": 4,
         "name": "兰花螳螂·欧希缇",
-        "spd_atk": 1493,
+        "spd_atk": 1500,
         "tokens": "",
         "animation": 26,
         "type": "4196010"
@@ -1394,7 +1402,7 @@
     {
         "star": 4,
         "name": "赤链蛇·青葙",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "",
         "animation": 26,
         "type": "4201010"
@@ -1489,9 +1497,9 @@
     },
     {
         "star": 5,
-        "name": "炮台（提尔比茨召唤物）",
+        "name": "自律炮台（提尔比茨召唤物）",
         "spd_atk": 1000,
-        "tokens": "北宅 红船 召唤物",
+        "tokens": "北宅 红船 召唤物 提尔比茨",
         "animation": 21,
         "type": "5082010.s"
     },
@@ -1643,7 +1651,7 @@
         "star": 5,
         "name": "鳞壳仆从（鳞壳之主·厄客德娜召唤物）",
         "spd_atk": 1400,
-        "tokens": "滑溜溜 鳞蛇 召唤物",
+        "tokens": "滑溜溜 鳞蛇 蛇主 召唤物 鳞壳之主厄客德娜",
         "animation": 26,
         "type": "5127010.s"
     },
@@ -1691,7 +1699,7 @@
         "star": 5,
         "name": "仓鼠史莱姆（土间埋召唤物）",
         "spd_atk": 1600,
-        "tokens": "小埋 土间埋",
+        "tokens": "小埋 召唤物 土间埋",
         "animation": 26,
         "type": "5140010.s"
     },
@@ -1730,8 +1738,8 @@
     {
         "star": 5,
         "name": "迅叶秋风·希露芙",
-        "spd_atk": 1199,
-        "tokens": "大秋风 sp秋风 sp",
+        "spd_atk": 1200,
+        "tokens": "大秋风 sp秋风",
         "animation": 26,
         "type": "5151010"
     },
@@ -1739,7 +1747,7 @@
         "star": 5,
         "name": "龙王之誓·薇薇",
         "spd_atk": 1500,
-        "tokens": "sp vv",
+        "tokens": "spvv",
         "animation": 21,
         "type": "5152010"
     },
@@ -1801,7 +1809,7 @@
     },
     {
         "star": 5,
-        "name": "胡桃泽·萨塔妮基亚·麦克道威尔",
+        "name": "胡桃泽·萨塔妮亚·麦克威尔",
         "spd_atk": 1400,
         "tokens": "撒塔妮 萨塔喵 傻蛋妮娅 傻塔喵",
         "animation": 26,
@@ -1818,8 +1826,8 @@
     {
         "star": 5,
         "name": "不详之源·基雅·库罗",
-        "spd_atk": 1492,
-        "tokens": "sp乌鸦 sp",
+        "spd_atk": 1500,
+        "tokens": "sp乌鸦",
         "animation": 21,
         "type": "5168010"
     },
@@ -1834,7 +1842,7 @@
     {
         "star": 5,
         "name": "荷洛音",
-        "spd_atk": 1466,
+        "spd_atk": 1450,
         "tokens": "",
         "animation": 21,
         "type": "5170010"
@@ -1842,7 +1850,7 @@
     {
         "star": 5,
         "name": "寂鲸之音·爱克戎丝",
-        "spd_atk": 1492,
+        "spd_atk": 1500,
         "tokens": "鲸",
         "animation": 21,
         "type": "5173010"
@@ -1850,7 +1858,7 @@
     {
         "star": 5,
         "name": "莓莓",
-        "spd_atk": 1408,
+        "spd_atk": 1400,
         "tokens": "",
         "animation": 26,
         "type": "5174010"
@@ -1858,7 +1866,7 @@
     {
         "star": 5,
         "name": "麦麦",
-        "spd_atk": 1492,
+        "spd_atk": 1500,
         "tokens": "",
         "animation": 21,
         "type": "5175010"
@@ -1866,7 +1874,7 @@
     {
         "star": 5,
         "name": "魔界军势·雅珂",
-        "spd_atk": 1492,
+        "spd_atk": 1500,
         "tokens": "魔枪",
         "animation": 21,
         "type": "5179010"
@@ -1874,15 +1882,15 @@
     {
         "star": 5,
         "name": "月兔女仆·蕾雅",
-        "spd_atk": 1408,
-        "tokens": "sp月兔 sp",
-        "animation": 34,
-        "type": "5179010"
+        "spd_atk": 1400,
+        "tokens": "sp月兔",
+        "animation": 16,
+        "type": "5180010"
     },
     {
         "star": 5,
         "name": "水曜·樱零",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "白毛狐狸",
         "animation": 26,
         "type": "5185010"
@@ -1890,15 +1898,15 @@
     {
         "star": 5,
         "name": "游历者·卡库",
-        "spd_atk": 1492,
-        "tokens": "sp酋长 sp",
+        "spd_atk": 1500,
+        "tokens": "sp酋长",
         "animation": 26,
         "type": "5187010"
     },
     {
         "star": 5,
         "name": "梅普露",
-        "spd_atk": 1299,
+        "spd_atk": 1300,
         "tokens": "盾娘",
         "animation": 26,
         "type": "5188010"
@@ -1906,7 +1914,7 @@
     {
         "star": 5,
         "name": "莎莉",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "手里剑",
         "animation": 21,
         "type": "5189010"
@@ -1922,7 +1930,7 @@
     {
         "star": 5,
         "name": "奏",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "百宝盒 魔盒 赌狗 男娘",
         "animation": 21,
         "type": "5193010"
@@ -1930,7 +1938,7 @@
     {
         "star": 5,
         "name": "雪花莲·迦拉尼娅",
-        "spd_atk": 1493,
+        "spd_atk": 1500,
         "tokens": "",
         "animation": 21,
         "type": "5197010"
@@ -1938,7 +1946,7 @@
     {
         "star": 5,
         "name": "凶擒校尉·薇妮特拉",
-        "spd_atk": 1613,
+        "spd_atk": 1600,
         "tokens": "",
         "animation": 21,
         "type": "5198010"
@@ -1946,7 +1954,7 @@
     {
         "star": 5,
         "name": "雪之探究者·奥格",
-        "spd_atk": 1493,
+        "spd_atk": 1500,
         "tokens": "",
         "animation": 26,
         "type": "5199010"
@@ -1954,7 +1962,7 @@
     {
         "star": 5,
         "name": "丽芙莎茵",
-        "spd_atk": 1493,
+        "spd_atk": 1500,
         "tokens": "",
         "animation": 21,
         "type": "5200010"
