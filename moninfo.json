@@ -1966,5 +1966,21 @@
         "tokens": "",
         "animation": 21,
         "type": "5200010"
+    },
+    {
+        "star": 5,
+        "name": "木馨",
+        "spd_atk": 1400,
+        "tokens": "",
+        "animation": 21,
+        "type": "5203010"
+    },
+    {
+        "star": 5,
+        "name": "罗小涵",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 26,
+        "type": "5204010"
     }
 ]
