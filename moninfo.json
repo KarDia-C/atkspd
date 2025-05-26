@@ -875,9 +875,17 @@
         "star": 3,
         "name": "兔狸藻·尤特狸夏",
         "spd_atk": 1600,
-        "tokens": "喜鹊",
+        "tokens": "",
         "animation": 21,
         "type": "3195010"
+    },
+    {
+        "star": 3,
+        "name": "毛毛驼·恰娜肯",
+        "spd_atk": 1600,
+        "tokens": "羊驼",
+        "animation": 21,
+        "type": "3202010"
     },
     {
         "star": 4,
