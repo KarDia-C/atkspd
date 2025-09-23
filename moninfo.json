@@ -1990,5 +1990,13 @@
         "tokens": "",
         "animation": 26,
         "type": "5204010"
+    },
+    {
+        "star": 5,
+        "name": "水火不容·MIO&空",
+        "spd_atk": 1600,
+        "tokens": "哈气MIO",
+        "animation": 21,
+        "type": "5208010"
     }
 ]
