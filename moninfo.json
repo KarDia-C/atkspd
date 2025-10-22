@@ -1416,6 +1416,14 @@
         "type": "4201010"
     },
     {
+        "star": 4,
+        "name": "绿洲精灵·奥奈洛",
+        "spd_atk": 1600,
+        "tokens": "",
+        "animation": 26,
+        "type": "4207010"
+    },
+    {
         "star": 5,
         "name": "神之御子薇薇",
         "spd_atk": 1466,
@@ -1993,9 +2001,25 @@
     },
     {
         "star": 5,
+        "name": "昼日君主·吉涅希斯",
+        "spd_atk": 1600,
+        "tokens": "白马",
+        "animation": 21,
+        "type": "5205010"
+    },
+    {
+        "star": 5,
+        "name": "黄昏骑卫·尼赫塔",
+        "spd_atk": 1000,
+        "tokens": "黑马",
+        "animation": 26,
+        "type": "5206010"
+    },
+    {
+        "star": 5,
         "name": "水火不容·MIO&空",
         "spd_atk": 1600,
-        "tokens": "哈气MIO",
+        "tokens": "哈气MIO 哈气猫",
         "animation": 21,
         "type": "5208010"
     }
