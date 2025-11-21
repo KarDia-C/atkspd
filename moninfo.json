@@ -1424,6 +1424,14 @@
         "type": "4207010"
     },
     {
+        "star": 4,
+        "name": "贝拉多娜",
+        "spd_atk": 1490,
+        "tokens": "蝙蝠",
+        "animation": 26,
+        "type": "4209010"
+    },
+    {
         "star": 5,
         "name": "神之御子薇薇",
         "spd_atk": 1466,
@@ -2022,5 +2030,21 @@
         "tokens": "哈气MIO 哈气猫",
         "animation": 21,
         "type": "5208010"
+    },
+    {
+        "star": 5,
+        "name": "迦南",
+        "spd_atk": 1640,
+        "tokens": "",
+        "animation": 26,
+        "type": "5210010"
+    },
+    {
+        "star": 5,
+        "name": "米拉贝尔",
+        "spd_atk": 1400,
+        "tokens": "独角兔 白兔",
+        "animation": 26,
+        "type": "5211010"
     }
 ]
