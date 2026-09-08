@@ -888,6 +888,14 @@
         "type": "3202010"
     },
     {
+        "star": 3,
+        "name": "食梦之灵·墨菲斯",
+        "spd_atk": 1613,
+        "tokens": "",
+        "animation": 26,
+        "type": "3219010"
+    },
+    {
         "star": 4,
         "name": "公主史莱姆",
         "spd_atk": 1600,
@@ -1430,6 +1438,38 @@
         "tokens": "蝙蝠",
         "animation": 26,
         "type": "4209010"
+    },
+    {
+        "star": 4,
+        "name": "彤午马·皇芦",
+        "spd_atk": 1613,
+        "tokens": "",
+        "animation": 26,
+        "type": "4212010"
+    },
+    {
+        "star": 4,
+        "name": "美人鱼",
+        "spd_atk": 1493,
+        "tokens": "",
+        "animation": 21,
+        "type": "4215010"
+    },
+    {
+        "star": 4,
+        "name": "皇家指挥官",
+        "spd_atk": 1408,
+        "tokens": "",
+        "animation": 26,
+        "type": "4216010"
+    },
+    {
+        "star": 4,
+        "name": "艾尔菲帕",
+        "spd_atk": 1408,
+        "tokens": "",
+        "animation": 21,
+        "type": "4222010"
     },
     {
         "star": 5,
@@ -2046,5 +2086,53 @@
         "tokens": "独角兔 白兔",
         "animation": 26,
         "type": "5211010"
+    },
+    {
+        "star": 5,
+        "name": "游侠小红帽",
+        "spd_atk": 1493,
+        "tokens": "",
+        "animation": 26,
+        "type": "5213010"
+    },
+    {
+        "star": 5,
+        "name": "黑天鹅",
+        "spd_atk": 1408,
+        "tokens": "",
+        "animation": 26,
+        "type": "5214010"
+    },
+    {
+        "star": 5,
+        "name": "伽拉忒亚",
+        "spd_atk": 1613,
+        "tokens": "",
+        "animation": 26,
+        "type": "5220010"
+    },
+    {
+        "star": 5,
+        "name": "奇瓦",
+        "spd_atk": 1408,
+        "tokens": "",
+        "animation": 21,
+        "type": "5221010"
+    },
+    {
+        "star": 5,
+        "name": "软骸暴君·公主史莱姆",
+        "spd_atk": 1492,
+        "tokens": "sp公主",
+        "animation": 21,
+        "type": "5222010"
+    },
+    {
+        "star": 5,
+        "name": "深渊史莱姆（sp公主姆召唤物）",
+        "spd_atk": 1725,
+        "tokens": "sp公主",
+        "animation": 21,
+        "type": "5222010.s"
     }
 ]
