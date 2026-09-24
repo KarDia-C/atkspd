@@ -2105,6 +2105,22 @@
     },
     {
         "star": 5,
+        "name": "镜子魔女",
+        "spd_atk": 1493,
+        "tokens": "",
+        "animation": 21,
+        "type": "5217010"
+    },
+    {
+        "star": 5,
+        "name": "爱丽丝",
+        "spd_atk": 1351,
+        "tokens": "",
+        "animation": 26,
+        "type": "5218010"
+    },
+    {
+        "star": 5,
         "name": "伽拉忒亚",
         "spd_atk": 1613,
         "tokens": "",
