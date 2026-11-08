@@ -896,6 +896,14 @@
         "type": "3219010"
     },
     {
+        "star": 3,
+        "name": "殉光者·斯娜戈",
+        "spd_atk": 1613,
+        "tokens": "",
+        "animation": 21,
+        "type": "3223010"
+    },
+    {
         "star": 4,
         "name": "公主史莱姆",
         "spd_atk": 1600,
@@ -1470,6 +1478,14 @@
         "tokens": "",
         "animation": 21,
         "type": "4222010"
+    },
+    {
+        "star": 4,
+        "name": "沉寂幽光·卢米埃尔",
+        "spd_atk": 1492,
+        "tokens": "",
+        "animation": 21,
+        "type": "4224010"
     },
     {
         "star": 5,
@@ -2150,5 +2166,21 @@
         "tokens": "sp公主",
         "animation": 21,
         "type": "5222010.s"
+    },
+    {
+        "star": 5,
+        "name": "丰饶之神·阿格娜丝",
+        "spd_atk": 1613,
+        "tokens": "",
+        "animation": 21,
+        "type": "5225010"
+    },
+    {
+        "star": 5,
+        "name": "枯萎钩吻·厄莉丝",
+        "spd_atk": 1299,
+        "tokens": "",
+        "animation": 21,
+        "type": "5226010"
     }
 ]
